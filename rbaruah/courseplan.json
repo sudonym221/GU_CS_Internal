@@ -1,0 +1,137 @@
+[
+	{
+		"courseName":"Web Programming Technologies",
+		"Planning":[
+		 {
+		  "Month": "August, 2022",
+		  "Week": "Week 1",
+		  "Topic": "History and basic idea of Internet. Different types of Internet services, such as, telnet, e-mail, ftp, WWW, etc."
+		 },
+		 {
+		  "Month": "August, 2022",
+		  "Week": "Week 2",
+		  "Topic": "Designing web pages with HTML"
+		 },
+		 {
+		  "Month": "August, 2022",
+		  "Week": "Week 3",
+		  "Topic": "Use of different tags, hyper-links, URLs, tables, text formatting, graphics &amp; multimedia, image-map, frames and forms in web pages."
+		 },
+		 {
+		  "Month": "August, 2022",
+		  "Week": "Week 4",
+		  "Topic": "Use of Cascading Style Sheet in web pages."
+		 },
+		 {
+		  "Month": "August, 2022",
+		  "Week": "Week 5",
+		  "Topic": "Basics of JavaScript overview, such as, constants, variables, operators, expressions &amp; statements."
+		 },
+		 {
+		  "Month": "September, 2022",
+		  "Week": "Week 1",
+		  "Topic": "Creating user-defined &amp; built-in functions,"
+		 },
+		 {
+		  "Month": "September, 2022",
+		  "Week": "Week 2",
+		  "Topic": "Client-side form validation using properties and methods of built-in objects."
+		 },
+		 {
+		  "Month": "September, 2022",
+		  "Week": "Week 3",
+		  "Topic": "Creating interactive and dynamic web pages with JavaScript"
+		 },
+		 {
+		  "Month": "September, 2022",
+		  "Week": "Week 4",
+		  "Topic": "PHP"
+		 },
+		 {
+		  "Month": "September, 2022",
+		  "Week": "Week 5",
+		  "Topic": "Basics of Standard Generalized Markup Language (SGML) such as structures, elements, Content models, DTD, attributes, entities."
+		 },
+		 {
+		  "Month": "October, 2022",
+		  "Week": "Week 1",
+		  "Topic": "Introduction to using user-defined tags in web pages, Displaying XML contents, Creating XML DTDs, Use of XSL."
+		 },
+		 {
+		  "Month": "October, 2022",
+		  "Week": "Week 2",
+		  "Topic": "Holidays"
+		 },
+		 {
+		  "Month": "October, 2022",
+		  "Week": "Week 3",
+		  "Topic": "Creating interactive CRUD applicaton"
+		 },
+		 {
+		  "Month": "October, 2022",
+		  "Week": "Week 4",
+		  "Topic": "Node JS"
+		 },
+		 {
+		  "Month": "October, 2022",
+		  "Week": "Week 5",
+		  "Topic": "Node JS"
+		 },
+		 {
+		  "Month": "October, 2022",
+		  "Week": "Week 6",
+		  "Topic": "React JS"
+		 },
+		 {
+		  "Month": "November, 2022",
+		  "Week": "Week 1",
+		  "Topic": "React JS"
+		 },
+		 {
+		  "Month": "November, 2022",
+		  "Week": "Week 2",
+		  "Topic": "Creating a simple interactive website using React"
+		 },
+		 {
+		  "Month": "November, 2022",
+		  "Week": "Week 3",
+		  "Topic": "Introduction to MERN and NoSQL"
+		 },
+		 {
+		  "Month": "November, 2022",
+		  "Week": "Week 4",
+		  "Topic": "Functions and working principle of web browsers, Plug-ins &amp; helper applications, Conceptual architecture of some typical web browsers"
+		 },
+		 {
+		  "Month": "November, 2022",
+		  "Week": "Week 5",
+		  "Topic": "Basics of client-server computing, Types of Client\/Server systems, Fat Clients versus Fat Servers. Web services and web server functionality, Web server composition and registration, Basics of HTTP, IP address, DNS &amp; ports, Conceptual architecture of some typical web servers."
+		 },
+		 {
+		  "Month": "December, 2022",
+		  "Week": "Week 1",
+		  "Topic": "Overview of CGI, ASP, and JSP, Server side scripting using PHP, Web database connectivity- introduction to ODBC, PHP with database connectivity."
+		 },
+		 {
+		  "Month": "December, 2022",
+		  "Week": "Week 2",
+		  "Topic": "Distributed Object based models- DCOM, CORBA, EJB, Web services and Related Technologies"
+		 },
+		 {
+		  "Month": "December, 2022",
+		  "Week": "Week 3",
+		  "Topic": " Types of Firewalls, such as, definition and their Network layer firewalls and application layer firewalls, Proxy servers."
+		 },
+		 {
+		  "Month": "December, 2022",
+		  "Week": "Week 4",
+		  "Topic": "NA"
+		 },
+		 {
+		  "Month": "December, 2022",
+		  "Week": "Week 5",
+		  "Topic": "NA"
+		 }
+		]
+	}
+]

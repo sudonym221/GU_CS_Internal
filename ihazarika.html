@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Computer Science Deptt</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  
+  <link rel="stylesheet" href="css/bootstrap.min.css"> 
+  <link href="img/gulogo.ico" rel="icon">
+  <script src="js/bootstrap.bundle.min.js"></script>
+	<style>
+		.responsive {
+			width: 100%;
+			height: auto;
+			}
+			
+	</style>
+</head>
+<body>
+
+<div class="container page-header" style="padding-top:5px;margin-bottom:5px">
+ <div class="row align-items-center  text-white" style="background-color:steelblue;padding-top:15px">
+	<div class="col-sm-1">
+		<img src="img/logo_small.png" alt="Icon" class="responsive">
+	</div>
+	<div class="col-sm-11">
+		<h3> Department of Computer Science</h3>
+		<h4>Gauhati University</h4>
+		<h5>Jalukbari, Gauhati, Assam</h5>
+	</div>
+ </div>
+</div>
+
+
+<div class="container" style="background-color:skyblue;padding:10px">
+ <div class="row">
+			<div class="btn-group d-flex justify-content-center" style="margin-top:5px">
+			  <button type="button" class="btn btn-secondary"><a href="index.html" style="color:white;text-decoration:none;display:block">Home</a></button>
+				<!--<button type="button" class="btn btn-secondary">Programmes</button>-->				
+				<div class="btn-group w-25">
+					<button type="button" class="btn btn-secondary dropdown-toggle active" data-bs-toggle="dropdown">Faculty</button>
+						<ul class="dropdown-menu">
+							<li><a class="dropdown-item" href="akmahanta.html">Prof. Anjana Kakoti Mahanta</a></li>
+							<li><a class="dropdown-item" href="skalita.html">Dr. Sanjib Kumar Kalita</a></li>
+							<li><a class="dropdown-item" href="dlaskar.html">Mr. Dwipen Laskar</a></li>
+							<li><a class="dropdown-item" href="hahmed.html">Dr. Hasin A Ahmed</a></li>
+							<li><a class="dropdown-item" href="pkakati.html">Dr. Pranamika Kakati</a></li>
+							<li><a class="dropdown-item" href="ihazarika.html">Dr. Irani Hazarika</a></li>
+							<li><a class="dropdown-item" href="kmedhi.html">Dr. Kalyanbrat Medhi</a></li>
+							<li><a class="dropdown-item" href="dpathak.html">Mr. Diganta Kumar Pathak</a></li>
+							<li><a class="dropdown-item" href="rbaruah.html">Mr. Risheraj Baruah</a></li>
+						</ul>
+				</div>
+				<!--<button type="button" class="btn btn-secondary">Staffs</button>-->
+				<div class="btn-group w-25">
+					<button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown">Attendance</button>
+						<ul class="dropdown-menu">
+							<li><a class="dropdown-item" href="attendancej.html">Junior Batch</a></li>
+							<li><a class="dropdown-item" href="attendances.html">Senior Batch</a></li>						
+						</ul>
+				</div>
+				
+				<button type="button" class="btn btn-secondary"><a href="events.html" style="color:white;text-decoration:none;display:block">Events</a></button>
+				<!--<button type="button" class="btn btn-secondary">Activities</button>-->				
+			</div>
+			
+			
+			<div class="row justify-content-center">
+				<div class="col-8">
+					<div style="padding:20px;color:rgba(63, 0, 12, 0.8);height:100%">
+						<span style="font-size:1.5rem">Dr. Irani Hazarika </span><br />
+						<span style="font-size:1.5rem">Qualification:</span> <span id="qualification" style="font-size:1.5rem">Will be retrieved from json file</span> <br />
+						<span style="font-size:1.5rem">Specialization:</span> <span id="specialization" style="font-size:1.5rem">Will be retrieved from json file</span> <br />
+						<span style="font-size:1.5rem">Mail id: </span><span id="mailid" style="font-size:1.5rem">Will be retrieved from json file</span>
+						
+					</div>
+				</div>
+				<div class="col-2">
+					<img src="ihazarika/image.jpg" alt="Prof Anjana Kakati Mahanta" class="responsive" style="margin:10px;border-style:solid;border-width:5px;border-color:rgba(25, 156, 61, 0.5);border-radius:45px">
+				</div>
+			</div>
+			
+			 
+ </div>
+ 
+ <div class="accordion" id="accordionCS">
+  
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingFive">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        <span style="font-weight:bold">COURSE PLAN</span>
+      </button>
+    </h2>
+    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionCS">
+      <div id="coursePlan" class="accordion-body">
+        
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingSix">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+        <span style="font-weight:bold">QUESTION PAPERS</span>
+      </button>
+    </h2>
+    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionCS">
+      <div id="courseCoverage" class="accordion-body">
+        
+      </div>
+    </div>
+  </div>
+   <div class="accordion-item">
+    <h2 class="accordion-header" id="headingSeven">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+        <span style="font-weight:bold">INTERNAL MARKS</span>
+      </button>
+    </h2>
+    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionCS">
+      <div id="internalMarks" class="accordion-body">
+        		
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingEight">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+        <span style="font-weight:bold">MENTEE LIST</span>
+      </button>
+    </h2>
+    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionCS">
+      <div id="menteeList" class="accordion-body">
+        
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingNine">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+        <span style="font-weight:bold">STUDENT SEMINAR/PROJECTS</span>
+      </button>
+    </h2>
+    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionCS">
+      <div id="projectList" class="accordion-body">
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+ 
+</div>
+
+
+
+
+<div class="container page-footer" style="margin-top:5px">
+<div class="row text-white" style="background-color:steelblue;padding-top:15px;margin-bottom:5px;padding-bottom:10px">
+	<div class="col-sm-4">
+		<div style="text-align:center;width:100%;background-color:rgb(56, 115, 66, 0.6);border-radius:10px">Important links</div>
+			<ul>
+				<li><a href="https://www.gauhati.ac.in/" style="color:white;text-decoration-line: none">Gauhati University</a></li>
+				<li><a href="https://swayam.gov.in/" style="color:white;text-decoration-line: none">Swayam</a></li>
+				<li><a href="https://ugc.ac.in/" style="color:white;text-decoration-line: none">UGC</a></li>
+				<li><a href="https://nptel.ac.in/" style="color:white;text-decoration-line: none">NPTEL</a></li>
+			</ul>	
+	</div>
+	<div class="col-sm-4">
+		 <div style="text-align:center;width:100%;background-color:rgb(56, 115, 66, 0.6);border-radius:10px">Documents</div>
+		 <ul>
+				<li><a href="lessonplans.html" style="color:white;text-decoration-line: none">Lesson Plans</a></li>
+				<li><a href="forms/menteeform.pdf" style="color:white;text-decoration-line: none">Mentor-Mentee Form</a></li>				
+				<li><a href="forms/projectform.pdf" style="color:white;text-decoration-line: none">Project Report Template</a></li>
+				<li><a href="forms.html" style="color:white;text-decoration-line: none">Other forms</a></li>
+		</ul>
+	</div>
+	<div class="col-sm-4">
+		<div style="text-align:center;width:100%;background-color:rgb(56, 115, 66, 0.6);border-radius:10px">Address</div>
+		<div style="text-align:center">
+			Department of Computer Science <br />
+			Gauhati University, Guwahati 781014 <br />
+			Assam, India <br />
+			E-mail id: computer@gauhati.ac.in	
+		</div>
+	</div>
+ </div>
+</div>
+
+
+<script>
+
+	//Loading Personal Data from personaldata.json
+	const xhttpData = new XMLHttpRequest();
+	xhttpData.onload = function() {
+	  jsonDoc = this.responseText;
+	  x = JSON.parse(jsonDoc);	  
+	  document.getElementById("qualification").innerHTML = x.Qualification;	  
+	  document.getElementById("specialization").innerHTML = x.Specialization;
+	  document.getElementById("mailid").innerHTML = x.Mailid;	  
+	}
+	xhttpData.open("GET", "ihazarika/personaldata.json");
+	xhttpData.send();
+	
+
+	
+	//Loading Internal Marks from internalmarks.json
+	const xhttpMarks = new XMLHttpRequest();
+	xhttpMarks.onload = function() {
+	  jsonDoc = this.responseText;
+	  x = JSON.parse(jsonDoc);
+	  let txt = "";
+	  for (let i = 0; i < x.length; i++) 
+	  {
+		txt=txt+"<h3 style=\"text-align:center\">"+Object.values(x[i])[0]+"</h3>";
+		
+		txt=txt+"<table class=\"table\">";
+		txt=txt+"<tr class=\"table-danger\">";
+		
+		//console.log(Object.keys(x[i].Marks[0]).length)
+		
+		for (let m = 0; m < Object.keys(x[i].Marks[0]).length; m++) {
+			txt=txt + "<td  style=\"text-align:center\">" + Object.keys(x[i].Marks[0])[m] + "</td>";
+		}	
+		txt=txt+"</tr>";		
+		for (let j = 0; j<x[i].Marks.length; j++) {
+			txt=txt+"<tr class=\"table-success\">";
+			for (let k = 0; k<Object.values(x[i].Marks[j]).length; k++) {
+				txt=txt+"<td  style=\"text-align:center\">"+Object.values(x[i].Marks[j])[k]+"</td>";
+			}
+			txt=txt+"</tr>";
+			
+		}		
+		txt=txt+"</table>";		
+	  }	 
+	  document.getElementById("internalMarks").innerHTML = txt;	  
+	}
+	xhttpMarks.open("GET", "ihazarika/internalmarks.json");
+	xhttpMarks.send();
+	
+	
+	
+	//Loading course coverage from coursecoverage.json
+	const xhttpCoverage = new XMLHttpRequest();
+	xhttpCoverage.onload = function() {
+	  jsonDoc = this.responseText;
+	  x = JSON.parse(jsonDoc);
+	  let txt = "";
+	  for (let i = 0; i < x.length; i++) 
+	  {
+		txt=txt+"<h3 style=\"text-align:center\">"+Object.values(x[i])[0]+"</h3>";
+		
+		txt=txt+"<table class=\"table\">";
+		txt=txt+"<tr class=\"table-danger\">";
+		
+		//console.log(Object.keys(x[i].Coverage[0]));
+		
+		for (let j = 0; j<Object.keys(x[i].Coverage[0]).length; j++) {
+			txt=txt + "<td  style=\"text-align:center\">" + Object.keys(x[i].Coverage[0])[j] + "</td>";
+		}	
+		txt=txt+"</tr>";
+		for (let j = 0; j<x[i].Coverage.length; j++) {
+			txt=txt+"<tr class=\"table-success\">";
+			for (let k = 0; k<Object.values(x[i].Coverage[j]).length; k++) {
+				txt=txt+"<td  style=\"text-align:center\">"+Object.values(x[i].Coverage[j])[k]+"</td>";
+			}
+			txt=txt+"</tr>";
+			
+		}	
+		txt=txt+"</table>";		
+	  }	 
+	  document.getElementById("courseCoverage").innerHTML = txt;	  
+	}
+	xhttpCoverage.open("GET", "ihazarika/coursecoverage.json");
+	xhttpCoverage.send();
+	
+	
+	
+	//Loading course plan from courseplan.json
+	const xhttpPlan = new XMLHttpRequest();
+	xhttpPlan.onload = function() {
+	  jsonDoc = this.responseText;
+	  x = JSON.parse(jsonDoc);
+	  let txt = "";
+	  for (let i = 0; i < x.length; i++) 
+	  {
+		txt=txt+"<h3 style=\"text-align:center\">"+Object.values(x[i])[0]+"</h3>";
+		
+		//console.log(Object.keys(x[i]));
+		
+		txt=txt+"<table class=\"table\">";
+		txt=txt+"<tr class=\"table-danger\">";
+		
+				
+		for (let j = 0; j<Object.keys(x[i].Planning[0]).length; j++) {
+			txt=txt + "<td  style=\"text-align:center\">" + Object.keys(x[i].Planning[0])[j] + "</td>";
+		}	
+		txt=txt+"</tr>";
+		for (let j = 0; j<x[i].Planning.length; j++) {
+			txt=txt+"<tr class=\"table-success\">";
+			for (let k = 0; k<Object.values(x[i].Planning[j]).length; k++) {
+				txt=txt+"<td  style=\"text-align:center\">"+Object.values(x[i].Planning[j])[k]+"</td>";
+			}
+			txt=txt+"</tr>";			
+		}	
+		txt=txt+"</table>";		
+	  }	 
+	  document.getElementById("coursePlan").innerHTML = txt;	  
+	}
+	xhttpPlan.open("GET", "ihazarika/courseplan.json");
+	xhttpPlan.send();
+	
+	
+	
+	
+	//Loading mentee list from menteelist.json
+	const xhttpMentee = new XMLHttpRequest();
+	xhttpMentee.onload = function() {
+	  jsonDoc = this.responseText;
+	  x = JSON.parse(jsonDoc);
+	  let txt = "";
+	  txt=txt+"<table class=\"table\">";
+	  txt=txt+"<tr class=\"table-danger\">";	
+	  for (let i = 0; i < Object.keys(x[0]).length; i++) 
+	  {
+			txt=txt + "<td style=\"text-align:center\">" + Object.keys(x[0])[i] + "</td>";			
+	  }	 
+	  txt=txt+"</tr>";
+	  
+	  for (let i = 0; i < x.length; i++) {
+			txt=txt+"<tr class=\"table-success\">";
+			for (let k = 0; k <  Object.values(x[i]).length; k++) {
+			
+				txt=txt+"<td  style=\"text-align:center\">"+Object.values(x[i])[k]+"</td>";
+			}
+			txt=txt+"</tr>";
+			
+		}	
+	  
+	  txt=txt+"</table>";	
+	  
+	  
+	  
+	  document.getElementById("menteeList").innerHTML = txt;	  
+	}
+	xhttpMentee.open("GET", "ihazarika/menteelist.json");
+	xhttpMentee.send();
+	
+	
+	
+	//Loading seminar/project list from projectlist.json
+	const xhttpProject = new XMLHttpRequest();
+	xhttpProject.onload = function() {
+	  jsonDoc = this.responseText;
+	  x = JSON.parse(jsonDoc);
+	  let txt = "";
+	  txt=txt+"<table class=\"table\">";
+	  txt=txt+"<tr class=\"table-danger\">";	
+	  for (let i = 0; i < Object.keys(x[0]).length; i++) 
+	  {
+			txt=txt + "<td style=\"text-align:center\">" + Object.keys(x[0])[i] + "</td>";			
+	  }	 
+	  txt=txt+"</tr>";
+	  
+	  for (let i = 0; i < x.length; i++) {
+			txt=txt+"<tr class=\"table-success\">";
+			for (let k = 0; k <  Object.values(x[i]).length; k++) {
+			
+				txt=txt+"<td  style=\"text-align:center\">"+Object.values(x[i])[k]+"</td>";
+			}
+			txt=txt+"</tr>";
+			
+		}	
+	  
+	  txt=txt+"</table>";	
+	  
+	 
+	  
+	  document.getElementById("projectList").innerHTML = txt;	  
+	}
+	xhttpProject.open("GET", "ihazarika/projectlist.json");
+	xhttpProject.send();
+	
+	
+	
+	
+</script>
+
+
+
+</body>
+</html>
+
+

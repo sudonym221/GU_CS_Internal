@@ -1,0 +1,58 @@
+																																																																				[
+  { 
+    "Name":"Abhijit Kakati",
+    "Photo":"<img src=\"/rbaruah/mentee/ak.png\" style=\"height:120px; width:90px; vertical-allign:middle;\">",
+    "Program":"M.Sc. (CS)",
+    "Semester":"3",
+    "Roll No.":"PS-211-811-0001",
+    "Address":"Baihata Chariali"
+  },
+  { 
+    "Name":"Nabanita Dutta", 
+    "Photo":"<img src=\"/rbaruah/mentee/nd.png\" height=\"120\" width=\"90\">",
+    "Program":"M.Sc. (IT)",
+    "Semester":"3",
+    "Roll No.":"PS-211-811-0017",
+    "Address":"Shillong, Meghalaya"
+  },
+  { 
+    "Name":"Pritam Pandit",
+    "Photo":"<img src=\"/rbaruah/mentee/pp.png\" height=\"120\" width=\"90\">", 
+    "Program":"M.Sc. (IT)",
+    "Semester":"3",
+    "Roll No.":"PS-211-811-0021",
+    "Address":"Bokajan, Golaghat"
+  },
+  { 
+    "Name":"Daigy Sarma", 
+    "Photo":"<img src=\"/rbaruah/mentee/ds.png\" height=\"120\" width=\"90\">",
+    "Program":"M.Sc. (CS)",
+    "Semester":"1",
+    "Roll No.":"~NA~",
+    "Address":"Ghograpar, Nalbari"
+  },
+  { 
+    "Name":"Digvijay Barman", 
+    "Photo":"<img src=\"/rbaruah/mentee/db.png\" height=\"120\" width=\"90\">",
+    "Program":"M.Sc. (CS)",
+    "Semester":"1",
+    "Roll No.":"~NA~",
+    "Address":"Ulubari, Guwahati"
+  },
+  { 
+    "Name":"Pijush Sarma", 
+    "Photo":"<img src=\"/rbaruah/mentee/ps.png\" height=\"120\" width=\"90\">",
+    "Program":"M.Sc. (CS)",
+    "Semester":"1",
+    "Roll No.":"~NA~",
+    "Address":"Baihata Chariali"
+  },
+  { 
+    "Name":"Sagarika Deka", 
+    "Photo":"<img src=\"/rbaruah/mentee/sd.png\" height=\"120\" width=\"90\">",
+    "Program":"M.Sc. (CS)",
+    "Semester":"1",
+    "Roll No.":"~NA~",
+    "Address":"Budrukuchi, Nalbari"
+  }
+]

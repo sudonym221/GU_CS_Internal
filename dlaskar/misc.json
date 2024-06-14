@@ -1,0 +1,51 @@
+[
+	{
+		"courseName":"Attendance Reports",
+		"Marks":[
+		  {
+        		"S.No.": "1",
+        		"Semester": "1st",
+        		"No of Class Held": "18",
+        		"Last Update on": "13/10/2022",
+        		"Download Link": "<a href=\"dlaskar/Attd/First1.pdf\">1st Sem Attendance Link</a>"
+    		},
+		 {
+        		"S.No.": "2",
+        		"Semester": "3rd",
+        		"No of Class Held": "21",
+        		"Last Update on": "14/09/2022",
+        		"Download Link": "<a href=\"dlaskar/Attd/Third.pdf\">3rd Sem Attendance Link</a>"
+    		}
+    			
+		]
+	},
+	{
+		"courseName":"Assignments on ADBMS(CSC1056/INF1056)",
+		"Marks":[
+		 {
+        		"S.No.": "1",
+        		"Semester": "1st",
+        		"Upload Date": "23/09/2022",
+        		"Submission Date": "12/10/2022",
+        		"Total Marks": "15",
+        		"Assignment Details": "<a href=\"dlaskar/Assign/A01ADBMS.pdf\">Assignment-01</a>",
+			"Status": "<img src=\"dlaskar/Exams/Closed.png\" width=\"95px\" height=\"30px\">"
+    		}
+    	
+		]
+	},
+	{
+		"courseName":"Assignments on DSYS(CSC3026/INF3026)",
+		"Marks":[
+		 {
+        		"S.No.": "1",
+        		"Semester": "3rd",
+        		"Upload Date": "23/09/2022",
+        		"Submission Date": "12/10/2022",
+        		"Total Marks": "15",
+        		"Assignment Details": "<a href=\"dlaskar/Assign/A01DS.pdf\">Assignment-01</a>",
+			"Status": "<img src=\"dlaskar/Exams/Closed.png\" width=\"95px\" height=\"30px\">"
+    		}
+		]
+	}
+]

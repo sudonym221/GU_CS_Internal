@@ -1,0 +1,59 @@
+[
+	
+	{
+		"courseName":"Details of meeting held with students",
+		"Marks":[
+		 {
+        		"Date": "September 19",
+        		"Time": "1:30 pm",
+			"Students present":"Nibir, Jenis, Chidhangsha, Priyanka, Rupam, Neeharika, Rinjhi",
+        		"Supervisors present": "Dwipen Lashkar, Hasin A Ahmed",
+			"Description": "Discussion on timeline of various activities"
+		},
+		{
+        		"Date": "September 20",
+        		"Time": "2:00 pm",
+			"Students present":"Nibir, Jenis, Chidhangsha, Priyanka, Rupam, Neeharika, Rinjhi",
+        		"Supervisors present": "Dwipen Lashkar, Hasin A Ahmed",
+			"Description": "Report preparation in Latex"
+		},
+		{
+        		"Date": "September 21",
+        		"Time": "1:30 pm",
+			"Students present":"Jenis, Chidhangsha, Nibir, Neeharika",
+        		"Supervisors present": "Hasin A Ahmed",
+			"Description": "Discussion on contents of presentation to be delivered on 23rd September"
+		},
+		{
+        		"Date": "September 22",
+        		"Time": "11:30 am",
+			"Students present":"Neeharika, Jenis",
+        		"Supervisors present": "Hasin A Ahmed",
+			"Description": "Discussion on organization of slides for upcoming progess seminar"
+		},
+		{
+        		"Date": "September 22",
+        		"Time": "1:00 pm",
+			"Students present":"Nibir, Chidhangsha",
+        		"Supervisors present": "Hasin A Ahmed",
+			"Description": "Discussion on organization of slides for upcoming progess seminar"
+		},
+		{
+        		"Date": "September 22",
+        		"Time": "1:00 pm",
+			"Students present":"Priyanka",
+        		"Supervisors present": "Hasin A Ahmed",
+			"Description": "Discussion on organization of slides for upcoming progess seminar"
+		},
+		{
+        		"Date": "September 22",
+        		"Time": "1:00 pm",
+			"Students present":"Rinjhi",
+        		"Supervisors present": "Dwipen Laskar",
+			"Description": "Discussion on organization of slides for upcoming progess seminar"
+		}		
+		]
+		
+    }
+
+]

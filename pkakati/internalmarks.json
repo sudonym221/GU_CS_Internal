@@ -1,0 +1,17 @@
+[
+	{
+		"courseName":"Internal Marks",
+		"Marks":[
+		 {
+		  "Paper Name": "Advanced Concepts in OOP",
+		  "Paper Code": "CSC-1016/ INF-1016",
+		  "Marksheet": "<a href='/pkakati/PK/ACOOP_Internal_Examination_Marks_2022.pdf'>ACOOP Marks</a>"
+		 },
+			 {
+		  "Paper Name": "Mathematical Foundation of Computer Science",
+		  "Paper Code": "CSC-1046/ INF-1046",
+		  "Marksheet": "<a href='/pkakati/PK/MFCS_Internal_Examination_Marks_2022.pdf'>MFCS Marks</a>"
+		 }		 		 
+		]
+	}
+]

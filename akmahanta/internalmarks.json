@@ -1,0 +1,138 @@
+[
+	{
+		"courseName":"Theory of Computation",
+		"Marks":[
+		 {
+		  "Roll No": "CS 01",
+		  "Name": "Gourhari Paul",
+		  "Internal I": 24.5,
+		  "Internal II": 24,
+		  "Seminar": 9
+		 },
+		 {
+		  "Roll No": "CS 05",
+		  "Name": "Manisha Malakar",
+		  "Internal I": 21,
+		  "Internal II": 20.5,
+		  "Seminar": 7
+		 },
+		 {
+		  "Roll No": "CS 06",
+		  "Name": "Subham Nayak",
+		  "Internal I": 18,
+		  "Internal II": 16,
+		  "Seminar": 8
+		 },
+		 {
+		  "Roll No": "CS 07",
+		  "Name": "Ripon Jyoti Lahkar",
+		  "Internal I": 21.5,
+		  "Internal II": 17.5,
+		  "Seminar": 7
+		 },
+		 {
+		  "Roll No": "CS 08",
+		  "Name": "Priya Karmakar",
+		  "Internal I": 19.5,
+		  "Internal II": 18,
+		  "Seminar": 6
+		 },
+		 {
+		  "Roll No": "CS 09",
+		  "Name": "Deepjyoti Chetia",
+		  "Internal I": 21,
+		  "Internal II": 18,
+		  "Seminar": 8
+		 },
+		 {
+		  "Roll No": "CS 13",
+		  "Name": "Rahul Halder",
+		  "Internal I": 10,
+		  "Internal II": 12,
+		  "Seminar": 6
+		 },
+		 {
+		  "Roll No": "CS 14",
+		  "Name": "Kajim Uddin",
+		  "Internal I": 24.5,
+		  "Internal II": 22.5,
+		  "Seminar": 8
+		 },
+		 {
+		  "Roll No": "CS 16",
+		  "Name": "Bikash Baishya",
+		  "Internal I": 12,
+		  "Internal II": 14,
+		  "Seminar": 7
+		 }
+		]
+	},
+	{
+		"courseName":"Operating System",
+		"Marks":[
+		 {
+		  "Roll No": "CS 01",
+		  "Name": "Gourhari Paul",
+		  "Internal I": 24.5,
+		  "Internal II": 24,
+		  "Seminar": 9
+		 },
+		 {
+		  "Roll No": "CS 05",
+		  "Name": "Manisha Malakar",
+		  "Internal I": 21,
+		  "Internal II": 20.5,
+		  "Seminar": 7
+		 },
+		 {
+		  "Roll No": "CS 06",
+		  "Name": "Subham Nayak",
+		  "Internal I": 18,
+		  "Internal II": 16,
+		  "Seminar": 8
+		 },
+		 {
+		  "Roll No": "CS 07",
+		  "Name": "Ripon Jyoti Lahkar",
+		  "Internal I": 21.5,
+		  "Internal II": 17.5,
+		  "Seminar": 7
+		 },
+		 {
+		  "Roll No": "CS 08",
+		  "Name": "Priya Karmakar",
+		  "Internal I": 19.5,
+		  "Internal II": 18,
+		  "Seminar": 6
+		 },
+		 {
+		  "Roll No": "CS 09",
+		  "Name": "Deepjyoti Chetia",
+		  "Internal I": 21,
+		  "Internal II": 18,
+		  "Seminar": 8
+		 },
+		 {
+		  "Roll No": "CS 13",
+		  "Name": "Rahul Halder",
+		  "Internal I": 10,
+		  "Internal II": 12,
+		  "Seminar": 6
+		 },
+		 {
+		  "Roll No": "CS 14",
+		  "Name": "Kajim Uddin",
+		  "Internal I": 24.5,
+		  "Internal II": 22.5,
+		  "Seminar": 8
+		 },
+		 {
+		  "Roll No": "CS 16",
+		  "Name": "Bikash Baishya",
+		  "Internal I": 12,
+		  "Internal II": 14,
+		  "Seminar": 7
+		 }
+		]
+	}
+]

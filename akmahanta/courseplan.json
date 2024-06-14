@@ -1,0 +1,113 @@
+[
+	{
+		"courseName":"Theory of Computation",
+		"Planning":[
+		  {
+        "Day": "1",
+        "Unit": "II",
+        "Topics": "Turing Machine-Definition, ID of TM, Acceptance of Languages, Recursively Enumerable and Recursive Languages"
+    },
+    {
+        "Day": "2",
+        "Unit": "II",
+        "Topics": "Design of TMs - I"
+    },
+    {
+        "Day": "3",
+        "Unit": "II",
+        "Topics": "Design of TMs - II"
+    },
+    {
+        "Day": "4",
+        "Unit": "II",
+        "Topics": "Design of TMs- III"
+    },
+    {
+        "Day": "5",
+        "Unit": "II",
+        "Topics": "TMs as function computers, Examples - I"
+    },
+    {
+        "Day": "6",
+        "Unit": "II",
+        "Topics": "TMs as function computers, Examples - II"
+    },
+    {
+        "Day": "7",
+        "Unit": "II",
+        "Topics": "Other Models of TMs - TM with stay option and equivalence with the Standard Turing Machhine (STM)"
+    },
+    {
+        "Day": "8",
+        "Unit": "II",
+        "Topics": "TM with semi infinite tape and equivalence with the Standard Turing Machhine (STM)"
+    },
+    {
+        "Day": "9",
+        "Unit": "II",
+        "Topics": "Multi-Tape TM and equivalence with the Standard Turing Machhine (STM)"
+    },
+    {
+        "Day": "10",
+        "Unit": "II",
+        "Topics": "Multi-Head TM and Multi Dimensional TM and equivalence with the Standard Turing Machhine (STM)"
+    },
+    {
+        "Day": "12",
+        "Unit": "II",
+        "Topics": "Non-deterministic TM and equivalence with the Standard Turing Machhine (STM)"
+    },
+    {
+        "Day": "11",
+        "Unit": "III",
+        "Topics": " Properties of r.e and recursive languages"
+    },
+    {
+        "Day": "12",
+        "Unit": "III",
+        "Topics": "Properties of r.e and recursive languages continued"
+    },
+    {
+        "Day": "13",
+        "Unit": "III",
+        "Topics": "Binary encoding of TMs and UTM, Church-Turing Thesis"
+    },
+    {
+        "Day": "14",
+        "Unit": "III",
+        "Topics": "Decidable and Undecidable Problems. Rice's Theorem and Applications, "
+    },
+    {
+        "Day": "15",
+        "Unit": "IV",
+        "Topics": "Left and Right linear grammar and relation with Regular Sets"
+    },
+    {
+        "Day": "16",
+        "Unit": "IV",
+        "Topics": "Unrestricted grammars and TM. Context-sensitive languages and Linear Bounded Automata. "
+    },
+    {
+        "Day": "17",
+        "Unit": "IV",
+        "Topics": "Languages that are not r.e. and associated theorems"
+    },
+    {
+        "Day": "18",
+        "Unit": "IV",
+        "Topics": "Relation Between CSL and r.e language"
+    },
+    {
+        "Day": "19",
+        "Unit": "IV",
+        "Topics": "Chomsky Hierarchy"
+    },
+    {
+        "Day": "20",
+        "Unit": "IV",
+        "Topics": "Halting Problem for TM, Rice's Theorem, Examples of Undecidable Problems"
+    }	 
+		
+		]
+	}
+]

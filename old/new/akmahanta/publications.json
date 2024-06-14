@@ -1,0 +1,20 @@
+[
+  { 
+    "articleTitle":"IoT Review", 
+    "listOfAuthors":["Dwipen Laskar","Vaskar Deka","Diganta Baishya"],
+	"publishedIn":"Transactions on Computational Engineering",
+	"ÿearOfPublication":"2004"
+  },
+  { 
+     "articleTitle":"Blockchain Review", 
+	 "listOfAuthors":["Hasin Ahmed","Dwipen Laskar"] ,
+	 "publishedIn":"BMC Distributed Computing",
+	 "ÿearOfPublication":"2001"
+  },
+  { 
+      "articleTitle":"DevOP: The technology roadmap", 
+	  "listOfAuthors":["Dwipen LAskar"] ,
+	  "publishedIn":"International Journal of Software",
+	  "ÿearOfPublication":"2000"
+  }
+]

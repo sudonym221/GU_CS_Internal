@@ -1,0 +1,420 @@
+<html>
+<head>
+<title>DBMS LAB</title>
+</head>
+<body>
+<h1>Contents for class on 26th August, 2022</h1>
+
+<TABLE border=1>
+  <TBODY>
+  <TR>
+    <TD align=middle bgColor=#aaaaaa colSpan=2><FONT size=3><B>Handy MySQL 
+      Commands</B></FONT> </TD></TR>
+  <TR>
+    <TD><B>Description</B></TD>
+    <TD><B>Command</B></TD></TR>
+  <TR>
+    <TD>To login (from unix shell) use -h only if needed.</TD>
+    <TD>[mysql dir]/bin/mysql -h hostname -u root -p</TD></TR>
+  <TR>
+    <TD>Create a database on the sql server.</TD>
+    <TD>create database [databasename];</TD></TR>
+  <TR>
+    <TD>List all databases on the sql server.</TD>
+    <TD>show databases;</TD></TR>
+  <TR>
+    <TD>Switch to a database.</TD>
+    <TD>use [db name];</TD></TR>
+  <TR>
+    <TD>To see all the tables in the db.</TD>
+    <TD>show tables;</TD></TR>
+  <TR>
+    <TD>To see database's field formats.</TD>
+    <TD>describe [table name];</TD></TR>
+  <TR>
+    <TD>To delete a db.</TD>
+    <TD>drop database [database name];</TD></TR>
+  <TR>
+    <TD>To creat a table.</TD>
+    <TD>CREATE TABLE table_name (column1 datatype,column2 datatype,column3 datatype,....);</TD></TR>
+  <TR>
+    <TD>To delete a table.</TD>
+    <TD>drop table [table name];</TD></TR>
+  <TR>
+    <TD>To insert data to a table.</TD>
+    <TD>INSERT INTO table_name (column1, column2, column3, ...) VALUES (value1, value2, value3, ...);</TD></TR>
+  
+  <TR>
+    <TD>Show all data in a table.</TD>
+    <TD>SELECT * FROM [table name];</TD></TR>
+  <TR>
+    <TD>Returns the columns and column information pertaining to the 
+      designated table.</TD>
+    <TD>show columns from [table name];
+    <TD>
+  <TR>
+  <TR>
+    <TD>Show certain selected rows with the value "whatever".</TD>
+    <TD>SELECT * FROM [table name] WHERE [field name] = "whatever";
+    <TD>
+  <TR>
+  <TR>
+    <TD>Show all records containing the name "Bob" AND the phone number 
+      '3444444'.</TD>
+    <TD>SELECT * FROM [table name] WHERE name = "Bob" AND phone_number = 
+      '3444444';
+    <TD>
+  <TR>
+  <TR>
+    <TD>Show all records not containing the name "Bob" AND the phone number 
+      '3444444' order by the phone_number field.</TD>
+    <TD>SELECT * FROM [table name] WHERE name != "Bob" AND phone_number = 
+      '3444444' order by phone_number;
+    <TD>
+  <TR>
+  <TR>
+    <TD>Show all records starting with the letters 'bob' AND the phone number 
+      '3444444'.</TD>
+    <TD>SELECT * FROM [table name] WHERE name like "Bob%" AND phone_number = 
+      '3444444';
+    <TD>
+  <TR>
+  <TR>
+    <TD>Use a regular expression to find records. Use "REGEXP BINARY" to force 
+      case-sensitivity. This finds any record beginning with a. </TD>
+    <TD>SELECT * FROM [table name] WHERE rec RLIKE "^a$";
+    <TD>
+  <TR>
+  <TR>
+    <TD>Show unique records.</TD>
+    <TD>SELECT DISTINCT [column name] FROM [table name];</TD></TR>
+  <TR>
+    <TD>Show selected records sorted in an ascending (asc) or descending 
+      (desc).</TD>
+    <TD>SELECT [col1],[col2] FROM [table name] ORDER BY [col2] DESC;</TD></TR>
+  <TR>
+    <TD>Count rows.</TD>
+    <TD>SELECT COUNT(*) FROM [table name];
+    <TD>
+  <TR>
+  <TR>
+    <TD>To update info already in a table.</TD>
+    <TD>UPDATE [table name] SET Select_priv = 'Y',Insert_priv = 
+      'Y',Update_priv = 'Y' where [field name] = 'user';</TD></TR>
+  <TR>
+    <TD>Delete a row(s) from a table.</TD>
+    <TD>DELETE from [table name] where [field name] = 'whatever';</TD></TR>
+  <TR>
+    <TD>Update database permissions/privilages.</TD>
+    <TD>FLUSH PRIVILEGES;</TD></TR>
+  <TR>
+    <TD>Delete a column.</TD>
+    <TD>alter table [table name] drop column [column name];</TD></TR>
+  <TR>
+    <TD>Add a new column to db.</TD>
+    <TD>alter table [table name] add column [new column name] varchar 
+  (20);</TD></TR>
+  <TR>
+    <TD>Change column name.</TD>
+    <TD>alter table [table name] change [old column name] [new column name] 
+      varchar (50);</TD></TR>
+  <TR>
+    <TD>Make a unique column so you get no dupes.</TD>
+    <TD>alter table [table name] add unique ([column name]);</TD></TR>
+  <TR>
+    <TD>Make a column bigger.</TD>
+    <TD>alter table [table name] modify [column name] VARCHAR(3);</TD></TR>
+  <TR>
+    <TD>Create Table Example 1.</TD>
+    <TD>CREATE TABLE [table name] (firstname VARCHAR(20), middleinitial 
+      VARCHAR(3), lastname VARCHAR(35),suffix VARCHAR(3),<BR>officeid 
+      VARCHAR(10),userid VARCHAR(15),username VARCHAR(8),email VARCHAR(35),phone 
+      VARCHAR(25), groups <BR>VARCHAR(15),datestamp DATE,timestamp time,pgpemail 
+      VARCHAR(255)); </TD></TR>
+  <TR>
+    <TD>Create Table Example 2.</TD>
+    <TD>create table [table name] (personid int(50) not null auto_increment 
+      primary key,firstname varchar(35),middlename varchar(50),lastname 
+      varchar(50) default 'bato'); </TD></TR>
+</TABLE>
+<h2>MySQL Data Types (Version 8.0)</h2>
+<p>Each column in a database table is required to have a name and a data type.</p>
+<p>An SQL developer must decide what type of data that will be stored inside each 
+column when creating a table. The data type is a 
+guideline for SQL to understand what type of data is expected inside of each 
+column, and it also identifies how SQL will interact with the stored data.</p>
+<p>In MySQL there are three main data types: string, numeric, and date and time.</p>
+<h3>String Data Types</h3>
+<div class="w3-responsive">
+<table class="ws-table-all notranslate">
+    <tr>
+      <th style="width:30%">Data type</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>CHAR(size)</td>
+      <td>A FIXED length string (can contain letters, numbers, and special characters). The
+      <em>size</em> parameter specifies the column length in characters - can be 
+      from 0 to   255. Default is 1</td>
+    </tr>
+    <tr>
+      <td>VARCHAR(size)</td>
+      <td>A VARIABLE length string (can contain letters, numbers, and special 
+      characters). The <em>size</em> parameter specifies the maximum column 
+      length in characters - can be from 0 to 65535</td>
+    </tr>
+    <tr>
+      <td>BINARY(size)</td>
+      <td>Equal to CHAR(), but stores binary byte strings. The <em>size</em> 
+      parameter specifies the column length in bytes. Default is 1</td>
+    </tr>
+    <tr>
+      <td>VARBINARY(size)</td>
+      <td>Equal to VARCHAR(), but stores binary byte strings. The <em>size</em> 
+      parameter specifies the maximum column length in bytes.</td>
+    </tr>
+    <tr>
+      <td>TINYBLOB</td>
+      <td>For BLOBs (Binary Large OBjects). Max length: 255 bytes</td>
+    </tr>
+    <tr>
+      <td>TINYTEXT</td>
+      <td>Holds a string with a maximum length of 255 characters</td>
+    </tr>
+    <tr>
+      <td>TEXT(size)</td>
+      <td>Holds a string with a maximum length of 65,535 bytes</td>
+    </tr>
+    <tr>
+      <td>BLOB(size)</td>
+      <td>For BLOBs (Binary Large OBjects). Holds up to 65,535 bytes of data</td>
+    </tr>
+    <tr>
+      <td>MEDIUMTEXT</td>
+      <td>Holds a string with a maximum length of 16,777,215 characters</td>
+    </tr>
+    <tr>
+      <td>MEDIUMBLOB</td>
+      <td>For BLOBs (Binary Large OBjects). Holds up to 16,777,215 bytes of data</td>
+    </tr>
+    <tr>
+      <td>LONGTEXT</td>
+      <td>Holds a string with a maximum length of 4,294,967,295 characters</td>
+    </tr>
+    <tr>
+      <td>LONGBLOB</td>
+      <td>For BLOBs (Binary Large OBjects). Holds up to 4,294,967,295 bytes of data</td>
+    </tr>
+    <tr>
+      <td>ENUM(val1, val2, val3, ...)</td>
+      <td>A string object that can have only one value, chosen from a list of possible values. You can list up to 65535 values in an ENUM list. If a value is inserted that is not in the list, a   blank value will be inserted. 
+      The values are sorted in the order you enter them</td>
+    </tr>
+  <tr>
+      <td>SET(val1, val2, val3, ...)</td>
+      <td>A string object that can have 0 or more values, chosen from a list of 
+      possible values. You can list up to 64 values in a SET list</td>
+    </tr>
+</table>
+</div>
+<hr>
+<div id="midcontentadcontainer" style="overflow:auto;text-align:center">
+<!-- MidContent -->
+<!-- <p class="adtext">Advertisement</p> -->
+
+  <div id="adngin-mid_content-0"></div>
+  
+</div>
+<hr>
+
+<h3>Numeric Data Types</h3>
+<div class="w3-responsive">
+<table class="ws-table-all notranslate">
+    <tr>
+      <th style="width:30%">Data type</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>BIT(<em>size</em>)</td>
+      <td>A bit-value type. The number of bits per value is specified in <em>size</em>. 
+      The <em>size</em> parameter can hold a value from 1 to 64. The default 
+      value for <em>size</em> is 1.</td>
+    </tr>
+    <tr>
+      <td>TINYINT(<em>size</em>)</td>
+      <td>A very small integer. Signed range is from -128 to 127. Unsigned range 
+      is from 0 to 255. The <em>size</em> parameter specifies the maximum 
+      display width (which is 255)</td>
+    </tr>
+    <tr>
+      <td>BOOL</td>
+      <td>Zero is considered as false, nonzero values are considered as true. </td>
+    </tr>
+    <tr>
+      <td>BOOLEAN</td>
+      <td>Equal to BOOL</td>
+    </tr>
+    <tr>
+      <td>SMALLINT(<em>size</em>)</td>
+      <td>A small integer. Signed range is from -32768 to 32767. Unsigned range 
+      is from 0 to 65535. The <em>size</em> parameter specifies the maximum 
+      display width (which is 255)</td>
+    </tr>
+    <tr>
+      <td>MEDIUMINT(<em>size</em>)</td>
+      <td>A medium integer. Signed range is from -8388608 to 8388607. Unsigned 
+      range is from 0 to 16777215. The <em>size</em> parameter specifies the 
+      maximum display width (which is 255)</td>
+    </tr>
+    <tr>
+      <td>INT(<em>size</em>)</td>
+      <td>A medium integer. Signed range is from -2147483648 to 2147483647. 
+      Unsigned range is from 0 to 4294967295. The <em>size</em> parameter 
+      specifies the maximum display width (which is 255)</td>
+    </tr>
+    <tr>
+      <td>INTEGER(<em>size</em>)</td>
+      <td>Equal to INT(size)</td>
+    </tr>
+    <tr>
+      <td>BIGINT(<em>size</em>)</td>
+      <td>A large integer. Signed range is from -9223372036854775808 to 
+      9223372036854775807. Unsigned range is from 0 to 18446744073709551615. The
+      <em>size</em> parameter specifies the maximum display width (which is 255)</td>
+    </tr>
+    <tr>
+      <td>FLOAT(<em>size</em>, <em>d</em>)</td>
+      <td>A floating point number. The total number of digits is specified in 
+      <em>size</em>. The   number of digits after the decimal point is specified 
+      in the <em>d</em> parameter. This syntax is deprecated in MySQL 8.0.17, 
+      and it will be removed in future MySQL versions</td>
+    </tr>
+    <tr>
+      <td>FLOAT(<em>p</em>)</td>
+      <td>A floating point number. MySQL uses the <em>p</em> value to determine 
+      whether to use FLOAT or DOUBLE for the resulting data type. If <em>p</em> 
+      is from 0 to 24, the data type becomes FLOAT(). If <em>p</em> is from 25 to 
+      53, the data type becomes DOUBLE()</td>
+    </tr>
+    <tr>
+      <td>DOUBLE(<em>size</em>, <em>d</em>)</td>
+      <td>A normal-size floating point number. The total number of digits is specified in 
+      <em>size</em>. The   number of digits after the decimal point is specified 
+      in the <em>d</em> parameter</td>
+    </tr>
+    <tr>
+      <td>DOUBLE PRECISION(<em>size</em>, <em>d</em>)</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>DECIMAL(<em>size</em>, <em>d</em>)</td>
+      <td>An exact fixed-point number. The   total number of digits is specified in 
+      <em>size</em>. The   number of digits after the decimal point is specified 
+      in the <em>d</em> parameter. The maximum number for <em>size</em> is 65. 
+      The maximum number for <em>d</em> is 30. The default value for <em>size</em> 
+      is 10. The default value for <em>d</em> is 0.</td>
+    </tr>
+    <tr>
+      <td>DEC(<em>size</em>, <em>d</em>)</td>
+      <td>Equal to DECIMAL(size,d)</td>
+    </tr>
+    </table>
+    </div>
+<p><strong>Note:</strong> All the numeric data types may have an extra option: UNSIGNED 
+or ZEROFILL. If you add the UNSIGNED option, MySQL disallows negative values for 
+the column. If you add the ZEROFILL option, MySQL automatically also adds the 
+UNSIGNED attribute to the column.</p>
+
+<h3>Date and Time Data Types</h3>
+<table class="ws-table-all notranslate">
+    <tr>
+      <th style="width:30%">Data type</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>DATE</td>
+      <td>A date. Format: YYYY-MM-DD. The supported range is from '1000-01-01' to '9999-12-31'</td>
+    </tr>
+    <tr>
+      <td>DATETIME(<em>fsp</em>)</td>
+      <td>A date and time combination. Format: YYYY-MM-DD hh:mm:ss. The supported range is from '1000-01-01 00:00:00' to '9999-12-31 23:59:59'. 
+      Adding DEFAULT and ON UPDATE in the column definition to get automatic 
+      initialization and updating to the current date and time</td>
+    </tr>
+    <tr>
+      <td>TIMESTAMP(<em>fsp</em>)</td>
+      <td>A timestamp. TIMESTAMP values are stored as the number of seconds since the Unix epoch ('1970-01-01 00:00:00' UTC). Format: YYYY-MM-DD   
+      hh:mm:ss. The supported range is from '1970-01-01 00:00:01'   UTC to '2038-01-09 03:14:07' UTC. 
+      Automatic initialization and updating to the current date and time can be 
+      specified using DEFAULT CURRENT_TIMESTAMP and ON UPDATE CURRENT_TIMESTAMP 
+      in the column definition</td>
+    </tr>
+    <tr>
+      <td>TIME(<em>fsp</em>)</td>
+      <td>A time. Format: hh:mm:ss. The supported range is from '-838:59:59' to '838:59:59'</td>
+    </tr>
+    <tr>
+      <td>YEAR</td>
+      <td>A year in four-digit format. Values allowed in four-digit format: 1901 to 2155, and 0000.<br>
+      MySQL 8.0 does not support year in two-digit format.</td>
+    </tr>
+</table>
+
+<center><h1>Classwork</h1></center>
+
+Prepare the following table in MySQL<br />
+<table border=1>
+<tr>
+	<td>Roll no.</td>
+	<td>Name</td>
+	<td>Address</td>
+	<td>Age</td>
+</tr>
+<tr>
+	<td>CS-01</td>
+	<td>Biren Das</td>
+	<td>Lakhimpur</td>
+	<td>25</td>
+</tr>
+<tr>
+	<td>CS-02</td>
+	<td>Ramen Das</td>
+	<td>Jorhat</td>
+	<td>16</td>
+</tr>
+<tr>
+	<td>CS-03</td>
+	<td>Brojen Borah</td>
+	<td>Sivsagar</td>
+	<td>17</td>
+</tr>
+<tr>
+	<td>CS-04</td>
+	<td>Rishi Boruah</td>
+	<td>Sonari</td>
+	<td>25</td>
+</tr>
+<tr>
+	<td>CS-05</td>
+	<td>Jamini Chakravorty</td>
+	<td>Jorhat</td>
+	<td>18</td>
+</tr>
+<tr>
+	<td>CS-06</td>
+	<td>Soma Borah</td>
+	<td>Sivsagar</td>
+	<td>29</td>
+</tr>
+</table>
+
+<h3>Write down queries for the following operations</h3>
+<ol>
+<li>Display names of all the students</li>
+<li>Display names of all the students from Jorhat</li>
+<li>Display names of all the students with age more than 22</li>
+<li>Display names of all the students with age more than 25 and has a title Das</li>
+</ol>
+
+</body>
+</html>

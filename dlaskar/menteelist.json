@@ -1,0 +1,94 @@
+[   
+	{
+        "S.No.":"1",
+	"Photo": "<img src=\"dlaskar/Mentor/JD.jpg\" width=\"80px\" height=\"100px\">",
+        "Class Roll No": "CS 09",
+        "Exam Roll No": "PS-211-811-0010",
+        "Semester": "3RD",
+        "Name of the student": "Jayabrat Deka",
+        "Address": "Dagaon, Rangia",
+        "Email-ID": "jayabratdeka8694@gmail.com"
+    },
+    {
+        "S.No.":"2",
+	"Photo": "<img src=\"dlaskar/Mentor/PS.jpg\" width=\"80px\" height=\"100px\">",
+        "Class Roll No": "CS 10",
+        "Exam Roll No": "PS-211-811-0022",
+        "Semester": "3RD",
+        "Name of the student": "Priyanka Sarma",
+        "Address": "AEC Campus, Jalukbari, Kamrup(M)",
+        "Email-ID": "pinkee.sarma93@gmail.com"
+    },
+    {
+        "S.No.": "3",
+	"Photo": "<img src=\"dlaskar/Mentor/JB.jpg\" width=\"80px\" height=\"100px\">",
+        "Class Roll No": "CS 11",
+        "Exam Roll No": "PS-211-811-0012",
+        "Semester": "3RD",
+        "Name of the student": "Jyotishmaan Bhagawati",
+        "Address": "Sarpara, Palashbari, Kamrup",
+        "Email-ID": "jantubhagawati@gmail.com"
+    },
+    {
+        "S.No.": "4",
+	"Photo": "<img src=\"dlaskar/Mentor/MR.jpg\" width=\"80px\" height=\"100px\">",
+        "Class Roll No": "CS 12",
+        "Exam Roll No": "PS-211-811-0015",
+        "Semester": "3RD",
+        "Name of the student": "Masidur Rahman",
+        "Address": "Jalukbari, Kamrup(M)",
+        "Email-ID": "masidur6155@gmail.com"
+    },
+    {
+        "S.No.": "5",
+	"Photo": "<img src=\"dlaskar/Mentor/MC.jpg\" width=\"80px\" height=\"100px\">",
+        "Class Roll No": "CS 13",
+	"Exam Roll No": "PS-211-811-0014",
+        "Semester": "3RD",
+        "Name of the student": "Manash Choudhuri",
+        "Address": "Dalangghat, Kaliagaon, Tangla",
+        "Email-ID": "jumonnath@gmail.com"
+    },
+    {
+        "S.No.": "6",
+	"Photo": "<img src=\"dlaskar/Mentor/HD.jpg\" width=\"80px\" height=\"100px\">",
+        "Class Roll No": "IT 07",
+        "Exam Roll No": "PS-211-811-0009",
+        "Semester": "3RD",
+        "Name of the student": "Himangshu Das",
+        "Address": "Hengrabari, Kamrup(M)",
+	 "Email-ID": "himangshu1988@gmail.com"
+    },
+	{
+        "S.No.": "7",
+	"Photo": "<img src=\"dlaskar/Mentor/NP.jpg\" width=\"80px\" height=\"100px\">",
+        "Class Roll No": "CS 12",
+        "Exam Roll No": "--",
+        "Semester": "1ST",
+        "Name of the student": "NUNCY PHANJOM",
+        "Address": "SP Road Lala, Hailakandi, Assam-788163",
+	"Email-ID": "nuncyphanjom@gmail.com"
+    },
+	{
+        "S.No.": "8",
+	"Photo": "<img src=\"dlaskar/Mentor/AB.jpg\" width=\"80px\" height=\"100px\">",
+        "Class Roll No": "CS 17",
+        "Exam Roll No": "--",
+        "Semester": "1ST",
+        "Name of the student": "ANAMIKA BASUMATARY",
+        "Address": "Gogamukh, Dehemaji, Assam, Pin-787034",
+	 "Email-ID": "banjali369@gmail.com"
+    }
+    ,
+	{
+        "S.No.": "Click</a>",
+	"Photo": "Here ",
+	"Class Roll No": "to",
+	"Exam Roll No": "download",
+        "Semester": "the",
+        "Name of the student": "Mentoing Details",
+        "Address": "for the Session 2022-2023",
+	 "Email-ID": "<a href=\"dlaskar/Mentor/MenteeUpload.pdf\">Down load</a>"
+    }
+    	
+]

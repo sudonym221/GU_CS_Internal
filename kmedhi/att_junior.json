@@ -1,0 +1,339 @@
+[
+{
+		"Date of Display":"07/09/2022",
+		"Data":[
+ {			
+  "Class Roll No.": "CS 01",
+  "Student Name": "RUPAM BHATTACHARYYA",
+  "ACOA(8)": 4,
+  "OS(5)": 3,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 4,
+  "ACOOP(6)": 4,
+  "%": 63.33
+ },
+ {
+  "Class Roll No.": "CS 02",
+  "Student Name": "SUPRIYA BORAH",
+  "ACOA(8)": 8,
+  "OS(5)": 4,
+  "ADBMS(5)": 5,
+  "MFCS(6)": 5,
+  "ACOOP(6)": 5,
+  "%": 90
+ },
+ {
+  "Class Roll No.": "CS 03",
+  "Student Name": "NABA KUMAR CHOUHAN",
+  "ACOA(8)": 2,
+  "OS(5)": 1,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 2,
+  "ACOOP(6)": 1,
+  "%": 26.67
+ },
+ {
+  "Class Roll No.": "CS 04",
+  "Student Name": "PIJUSH SARMA",
+  "ACOA(8)": 3,
+  "OS(5)": 2,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 3,
+  "ACOOP(6)": 3,
+  "%": 50
+ },
+ {
+  "Class Roll No.": "CS 05",
+  "Student Name": "AZISH MAZADI",
+  "ACOA(8)": 8,
+  "OS(5)": 5,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 6,
+  "ACOOP(6)": 6,
+  "%": 96.67
+ },
+ {
+  "Class Roll No.": "CS 06",
+  "Student Name": "PRANAB JYOTI KAKATI",
+  "ACOA(8)": 4,
+  "OS(5)": 3,
+  "ADBMS(5)": 3,
+  "MFCS(6)": 3,
+  "ACOOP(6)": 4,
+  "%": 56.67
+ },
+ {
+  "Class Roll No.": "CS 07",
+  "Student Name": "SUBHASISH DEY",
+  "ACOA(8)": 1,
+  "OS(5)": 1,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 1,
+  "ACOOP(6)": 1,
+  "%": 20
+ },
+ {
+  "Class Roll No.": "CS 08",
+  "Student Name": "DAIGY SARMA",
+  "ACOA(8)": 8,
+  "OS(5)": 5,
+  "ADBMS(5)": 5,
+  "MFCS(6)": 6,
+  "ACOOP(6)": 6,
+  "%": 100
+ },
+ {
+  "Class Roll No.": "CS 09",
+  "Student Name": "DIGVIJAY BARMAN",
+  "ACOA(8)": 3,
+  "OS(5)": 2,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 3,
+  "ACOOP(6)": 3,
+  "%": 43.33
+ },
+ {
+  "Class Roll No.": "CS 10",
+  "Student Name": "SAGARIKA DEKA",
+  "ACOA(8)": 8,
+  "OS(5)": 5,
+  "ADBMS(5)": 5,
+  "MFCS(6)": 6,
+  "ACOOP(6)": 6,
+  "%": 100
+ },
+ {
+  "Class Roll No.": "CS 11",
+  "Student Name": "RIMLI SHOME",
+  "ACOA(8)": 0,
+  "OS(5)": 0,
+  "ADBMS(5)": 0,
+  "MFCS(6)": 0,
+  "ACOOP(6)": 0,
+  "%": 0
+ },
+ {
+  "Class Roll No.": "CS 12",
+  "Student Name": "NUNCY PHANJOM",
+  "ACOA(8)": 5,
+  "OS(5)": 4,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 4,
+  "ACOOP(6)": 5,
+  "%": 73.33
+ },
+ {
+  "Class Roll No.": "CS 13",
+  "Student Name": "HIMANSHU PHUKAN",
+  "ACOA(8)": 3,
+  "OS(5)": 3,
+  "ADBMS(5)": 3,
+  "MFCS(6)": 5,
+  "ACOOP(6)": 3,
+  "%": 56.67
+ },
+ {
+  "Class Roll No.": "CS 14",
+  "Student Name": "DHANJYOTI NATH",
+  "ACOA(8)": 7,
+  "OS(5)": 5,
+  "ADBMS(5)": 5,
+  "MFCS(6)": 4,
+  "ACOOP(6)": 4,
+  "%": 83.33
+ },
+ {
+  "Class Roll No.": "CS 15",
+  "Student Name": "UTPAL SUTRADHAR",
+  "ACOA(8)": 5,
+  "OS(5)": 5,
+  "ADBMS(5)": 5,
+  "MFCS(6)": 5,
+  "ACOOP(6)": 5,
+  "%": 83.33
+ },
+ {
+  "Class Roll No.": "CS 16",
+  "Student Name": "FWRDAN BASUMATARY",
+  "ACOA(8)": 5,
+  "OS(5)": 3,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 2,
+  "ACOOP(6)": 3,
+  "%": 50
+ },
+ {
+  "Class Roll No.": "CS 17",
+  "Student Name": "ANAMIKA BASUMATARY",
+  "ACOA(8)": 7,
+  "OS(5)": 4,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 6,
+  "ACOOP(6)": 6,
+  "%": 90
+ },
+ {
+  "Class Roll No.": "CS 18",
+  "Student Name": "SAR ANGTHIK RONGPI",
+  "ACOA(8)": 4,
+  "OS(5)": 3,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 4,
+  "ACOOP(6)": 4,
+  "%": 63.33
+ },
+ {
+  "Class Roll No.": "CS 19",
+  "Student Name": "DEBASISH BHARALI",
+  "ACOA(8)": 0,
+  "OS(5)": 0,
+  "ADBMS(5)": 0,
+  "MFCS(6)": 0,
+  "ACOOP(6)": 0,
+  "%": 0
+ },
+ {
+  "Class Roll No.": "CS 20",
+  "Student Name": "HIRAK JYOTI BARMAN",
+  "ACOA(8)": 4,
+  "OS(5)": 3,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 3,
+  "ACOOP(6)": 2,
+  "%": 46.67
+ },
+ null,
+ {
+  "Class Roll No.": "IT 01",
+  "Student Name": "JUBIN SAUD",
+  "ACOA(8)": 0,
+  "OS(5)": 0,
+  "ADBMS(5)": 0,
+  "MFCS(6)": 0,
+  "ACOOP(6)": 0,
+  "%": 0
+ },
+ {
+  "Class Roll No.": "IT 02",
+  "Student Name": "TANAZ AKHTER HUSSAIN",
+  "ACOA(8)": 1,
+  "OS(5)": 1,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 1,
+  "ACOOP(6)": 1,
+  "%": 20
+ },
+ {
+  "Class Roll No.": "IT 03",
+  "Student Name": "GAURAB KHAKHLARI",
+  "ACOA(8)": 2,
+  "OS(5)": 2,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 2,
+  "ACOOP(6)": 2,
+  "%": 33.33
+ },
+ {
+  "Class Roll No.": "IT 04",
+  "Student Name": "ARUNABH BHARADWAZ",
+  "ACOA(8)": 0,
+  "OS(5)": 0,
+  "ADBMS(5)": 0,
+  "MFCS(6)": 0,
+  "ACOOP(6)": 0,
+  "%": 0
+ },
+ {
+  "Class Roll No.": "IT 05",
+  "Student Name": "TRIDIP LAHKAR",
+  "ACOA(8)": 3,
+  "OS(5)": 1,
+  "ADBMS(5)": 3,
+  "MFCS(6)": 2,
+  "ACOOP(6)": 1,
+  "%": 33.33
+ },
+ {
+  "Class Roll No.": "IT 06",
+  "Student Name": "BHARGAV NATH",
+  "ACOA(8)": 7,
+  "OS(5)": 4,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 5,
+  "ACOOP(6)": 6,
+  "%": 86.67
+ },
+ {
+  "Class Roll No.": "IT 07",
+  "Student Name": "BEDANGA BORUAH",
+  "ACOA(8)": 1,
+  "OS(5)": 2,
+  "ADBMS(5)": 0,
+  "MFCS(6)": 1,
+  "ACOOP(6)": 1,
+  "%": 16.67
+ },
+ {
+  "Class Roll No.": "IT 08",
+  "Student Name": "SATYA SUNDAR SAIKIA",
+  "ACOA(8)": 3,
+  "OS(5)": 2,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 3,
+  "ACOOP(6)": 1,
+  "%": 36.67
+ },
+ {
+  "Class Roll No.": "IT 09",
+  "Student Name": "LAXMI DAIMARI",
+  "ACOA(8)": 8,
+  "OS(5)": 5,
+  "ADBMS(5)": 5,
+  "MFCS(6)": 5,
+  "ACOOP(6)": 5,
+  "%": 93.33
+ },
+ {
+  "Class Roll No.": "IT 10",
+  "Student Name": "SERJANG RONGHANG",
+  "ACOA(8)": 4,
+  "OS(5)": 3,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 4,
+  "ACOOP(6)": 4,
+  "%": 63.33
+ },
+ {
+  "Class Roll No.": "IT 11",
+  "Student Name": "HIMANSHU RANJAN KASHYAP",
+  "ACOA(8)": 4,
+  "OS(5)": 3,
+  "ADBMS(5)": 4,
+  "MFCS(6)": 3,
+  "ACOOP(6)": 4,
+  "%": 60
+ },
+ {
+  "Class Roll No.": "IT 12",
+  "Student Name": "ASHADUL HOQUE",
+  "ACOA(8)": 6,
+  "OS(5)": 3,
+  "ADBMS(5)": 3,
+  "MFCS(6)": 3,
+  "ACOOP(6)": 3,
+  "%": 60
+ },
+ {
+  "Class Roll No.": "IT 13",
+  "Student Name": "ARPITA PAUL",
+  "ACOA(8)": 6,
+  "OS(5)": 4,
+  "ADBMS(5)": 2,
+  "MFCS(6)": 4,
+  "ACOOP(6)": 4,
+  "%": 66.67
+ }
+]
+
+}
+]

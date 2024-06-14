@@ -1,0 +1,141 @@
+[
+	
+	{
+		"courseName":"Syllabus for Internal Examination, Distributed System (CSC3026/INF3026)",
+		"Marks":[
+		 {
+        		"Internal Exam No.": "Internal Exam-1(Theory)",
+               		"Exam Date": "24/09/2022 to 29/09/2022",
+        		"Syllabus": "<img src=\"dlaskar/Exams/new-icon.png\" width=\"40px\" height=\"20px\"><a href=\"dlaskar/Exams/Syllabus_IE1_DS_3rd_Sem.pdf\">Download the Syllabus</a>"
+		},
+		{
+        		"Internal Exam No.": "Internal Exam-2(Theory)",
+               		"Exam Date": "14/11/2022 to 18/11/2022",
+        		"Syllabus": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"40px\" height=\"20px\"><a href=\"dlaskar/Exams/Syllabus_IE2_DS_3rd_Sem.pdf\">Download the Syllabus</a>"
+		},
+		{
+        		"Internal Exam No.": "Internal Exam-3(Theory)",
+               		"Exam Date": "06/12/2022 from 11:30 to 12:30 PM (Exam is Open to All students)",
+        		"Syllabus": "All topics covered in all DS Classes "
+		}
+		]
+		
+    	},
+	{
+		"courseName":"Syllabus for Internal Examination, ADBMS (CSC1056/INF1056)",
+		"Marks":[
+		 {
+        		"Internal Exam No.": "Internal Exam-1(Theory)",
+               		"Exam Date": "24/09/2022 to 29/09/2022",
+        		"Syllabus": "<img src=\"dlaskar/Exams/new-icon.png\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Syllabus_IE1_ADBMS_1st_Sem.pdf\">Download the Syllabus</a>"
+		},
+		{
+        		"Internal Exam No.": "Internal Exam-2(Theory)",
+               		"Exam Date": "14/11/2022 to 18/11/2022",
+        		"Syllabus": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"40px\" height=\"20px\"><a href=\"dlaskar/Exams/Syllabus_IE2_ADBMS_1st_Sem.pdf\">Download the Syllabus</a>"
+		},
+		{
+        		"Internal Exam No.": "Lab-Exam-01",
+               		"Exam Date": "30/11/2022",
+        		"Syllabus": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"40px\" height=\"20px\"><a href=\"dlaskar/Exams/LabContent2022.pdf\">Download the Syllabus for Lab Examination</a>"
+		}
+		]
+		
+    	},
+	{
+		"courseName":"Internal Marks of Distributed System (CSC3026/INF3026)",
+		"Marks":[
+		 {
+        		"Internal Exam No.": "Internal-01",
+			"Course": "M.Sc.(CS/IT) 3rd Sem",
+               		"Exam Date": "29/09/2022",
+			"Exam Time": "11 AM to 12:30 PM",
+			"Result Date": "29/09/2022",
+			"Result Time": "6:40 PM",
+        		"Download Link": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Marks_1st_Inter_3rd_DS.pdf\">Click here to download the Mark List</a>"
+    		},
+		{
+        		"Internal Exam No.": "Internal-02",
+			"Course": "M.Sc.(CS/IT) 3rd Sem",
+               		"Exam Date": "15/11/2022",
+			"Exam Time": "01:30 PM to 3:00 PM",
+			"Result Date": "05/12/2022",
+			"Result Time": "11:20 AM",
+        		"Download Link": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Marks_2nd_Inter_3rd_DS.pdf\">Click here to download the Mark List</a>"
+    		},
+		{
+        		"Internal Exam No.": "Final Internal Marks",
+			"Course": "M.Sc.(CS/IT) 3rd Sem",
+               		"Exam Date": "NA",
+			"Exam Time": "NA",
+			"Result Date": "12/12/2022",
+			"Result Time": "04:46 PM",
+        		"Download Link": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Final_Internal_Marks_3rd_DS.pdf\">Click here to download the Final Internal Mark List</a>"
+    		}
+
+		]
+    		
+	},
+
+	{
+		"courseName":"Internal Marks of Advanced DBMS (CSC1056/INF1056)",
+		"Marks":[
+		   {
+        		"Internal Exam No.": "Internal-1",
+			"Course": "M.Sc.(IT) 1st Sem",
+               		"Exam Date": "29/09/2022",
+			"Exam Time": "1:30 PM to 3:00 PM",
+			"Result Date": "30/09/2022",
+			"Result Time": "11:40 PM",
+        		"Download Link": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Marks_1st_Inter_IT_ADBMS.pdf\">Click here to download the Mark List</a>"
+    		  },
+		 {
+        		"Internal Exam No.": "Internal-1",
+			"Course": "M.Sc.(CS) 1st Sem",
+               		"Exam Date": "29/09/2022",
+			"Exam Time": "11 AM to 12:30 PM",
+			"Result Date": "30/09/2022",
+			"Result Time": "12:56 AM",
+        		"Download Link": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Marks_1st_Inter_CS_ADBMS.pdf\">Click here to download the Mark List</a>"
+    		  },
+		 {
+        		"Internal Exam No.": "Lab-Exam-01",
+			"Course": "M.Sc.(CS) 1st Sem",
+               		"Exam Date": "30/11/2022",
+			"Exam Time": "2:00 PM to 4:30 PM",
+			"Result Date": "30/11/2022",
+			"Result Time": "6:30 PM",
+        		"Download Link": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Marks_1st_Lab_CS_ADBMS.pdf\">Click here to download the Mark List</a>"
+    		  },
+		 {
+        		"Internal Exam No.": "Lab-Exam-01",
+			"Course": "M.Sc.(IT) 1st Sem",
+               		"Exam Date": "30/11/2022",
+			"Exam Time": "2:00 PM to 4:30 PM",
+			"Result Date": "30/11/2022",
+			"Result Time": "6:30 PM",
+        		"Download Link": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Marks_1st_Lab_IT_ADBMS.pdf\">Click here to download the Mark List</a>"
+    		  },
+		 {
+        		"Internal Exam No.": "Internal-2",
+			"Course": "M.Sc.(CS/IT) 1st Sem",
+               		"Exam Date": "18/11/2022",
+			"Exam Time": "11:00 AM to 12:30 PM",
+			"Result Date": "15/12/2022",
+			"Result Time": "11:30 AM",
+        		"Download Link": "Result to be OUT SHORTLY "
+    		  },
+		{
+        		"Internal Exam No.": "Final Internal Marks",
+			"Course": "M.Sc.(CS/IT) 1st Sem",
+               		"Exam Date": "NA",
+			"Exam Time": "NA",
+			"Result Date": "14/12/2022",
+			"Result Time": "04:20 PM",
+        		"Download Link": "<img src=\"dlaskar/Exams/new-icon.gif\" width=\"35px\" height=\"20px\"><a href=\"dlaskar/Exams/Final_Internal_Marks_1st_ADBMS.pdf\">Click here to download the Final Internal Mark List</a>"
+    		}
+		]
+	}
+
+
+]

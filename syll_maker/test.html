@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Print Table</title>
+</head>
+
+<body>
+
+  <table id="myTable">
+    <tr>
+      <td><textarea name="" id="" cols="100" rows="2"></textarea></td>
+      <td><textarea name="" id="" cols="100" rows="2"></textarea></td>
+    </tr>
+    <tr>
+      <td><textarea name="" id="" cols="100" rows="2"></textarea></td>
+      <td><textarea name="" id="" cols="100" rows="2"></textarea></td>
+    </tr>
+    <tr>
+      <td><textarea name="" id="" cols="100" rows="2"></textarea></td>
+      <td><textarea name="" id="" cols="100" rows="2"></textarea></td>
+    </tr>
+  </table>
+
+  <button onclick="operation()">Print Table</button>
+
+  <script>
+    function remTextArea(row) { // returns array
+      // Create a new row to avoid modifying the original DOM
+      var newRow = row.cloneNode(true);
+      
+
+      for (let j = 0; j < newRow.cells.length; j++) {
+        var cell = newRow.cells[j];
+
+        // Get the textarea inside the cell
+        var textarea = cell.querySelector('textarea');
+
+        // Check if a textarea is found
+        if (textarea) {
+          // Copy the value from the textarea
+          var textareaValue = textarea.value;
+
+          // Remove the textarea
+          cell.removeChild(textarea);
+
+          // Create a new text node with the textarea value
+          var newText = document.createTextNode(textareaValue);
+
+          // Append the text node to the cell
+          cell.appendChild(newText);
+
+
+        }
+      }
+      return newRow;
+    }
+
+    function operation() {
+      // Clone each row to avoid modifying the original DOM
+      var clonedRows = Array.from(document.getElementById('myTable').querySelectorAll('tr')).map(remTextArea);
+
+      console.log(clonedRows);
+    }
+  </script>
+
+</body>
+
+</html>

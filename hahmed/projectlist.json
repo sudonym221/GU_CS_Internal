@@ -1,0 +1,34 @@
+[
+  { 
+    "Picture": "<img src=\"/hahmed/project/jab.jpg\" width=\"90px\" height=\"100px\">",
+    "Name":"JENISH ALI BORAH", 
+    "Roll no.":"IT 05",
+    "Program":"M.Sc.",
+    "Semester":"III",
+    "Title":"Agricultural Automation (Weed Detection)"
+  },
+  { 
+    "Picture": "<img src=\"/hahmed/project/nb.jpg\"  width=\"90px\" height=\"100px\">",
+    "Name":"NIBIR BORKATAKI", 
+    "Roll no.":"IT 13",
+    "Program":"M.Sc.",
+    "Semester":"III",
+    "Title":"Smart City"
+  },
+  { 
+    "Picture": "<img src=\"/hahmed/project/cb.jpg\"  width=\"90px\" height=\"100px\">",
+    "Name":"CHIDANGSHA SEKHAR BEZBORUAH", 
+    "Roll no.":"IT 04",
+    "Program":"M.Sc.",
+    "Semester":"III",
+    "Title":"Smart City (Smart Parking)"
+  },
+  { 
+    "Picture": "<img src=\"/hahmed/project/ns.jpg\"  width=\"90px\" height=\"100px\">",
+    "Name":"NEEHARIKA SONOWAL", 
+    "Roll no.":"CS 07",
+    "Program":"M.Sc.",
+    "Semester":"III",
+    "Title":"ANN in Healthcare"
+  }
+]

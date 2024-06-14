@@ -1,0 +1,93 @@
+[
+{
+"courseName":"Operating System (CSC1036/INF1036)",
+"Planning":[
+    {
+        "Class No.": "1-7",
+        "Topics to be covered": "Computer Subsystems, Programming Languages and Software, System Software, Processors, Primary Memory, Secondary Memory, Input/Output Devices"
+    },
+    {
+        "Class No.": "8-14",
+        "Topics to be covered": "Instruction Set, Addressing Modes, Instruction Types, Input Output Organization, Address protection, Segmentation, Virtual Memory, Paging, Page Replacement Algorithms, Cache memory"
+    },
+    {
+        "Class No.": "15-18",
+        "Topics to be covered": "Hierarchy of memory types, Associative memory, Mutual exclusion, shared data, Critical sections, Busy form of waiting, Lock and unlock primitives"
+    },
+    {
+        "Class No.": "21-25",
+        "Topics to be covered": "Synchronization block and wakeup, Process introduction, process scheduling queue, schedulers, Virtual processors, Interrupt mechanism"
+    },    
+    {
+        "Class No.": "26-30",
+        "Topics to be covered": "Scheduling algorithm: FCFS, Shortest-Job-Next (SJN) Scheduling, Priority Scheduling, Shortest Remaining Time, Round Robin(RR) Scheduling"
+    },    
+    {
+        "Class No.": "31-35",
+        "Topics to be covered": "Multiple-Level Queues Scheduling, Implementation of concurrency primitive, Deadlock characterization, Resource Allocation Graph, Prevention, detection and avoidance of deadlock, Banker’s algorithm"
+    },
+    {
+        "Class No.": "36-40",
+        "Topics to be covered": "Detection algorithm, Queue management, I/O supervisors, Memory Management, File System, Disk and drum scheduling"
+    },
+    {
+        "Class No.": "41-45",
+        "Topics to be covered": "Case Study: semaphore, Case Study: messages, shared memory, Secondary storage management, Security, Distributed operating system"
+    },    
+    {
+        "Class No.": "46-48",
+        "Topics to be covered": "Thread, Thrashing, Spooling"
+    }
+]
+},
+{
+"courseName":"ADVANCED CONCEPTS IN OOP LABORATORY (CSC1016/INF1016)",
+"Planning":[
+		 {
+		  "Class No.": "1-2",
+		  "Topics to be covered": "Introduction to linux commands"
+		 },
+		 {
+		  "Class No.": "3-6",
+		  "Topics to be covered": "Review of C programming"
+		 },
+		 {
+		  "Class No.": "7-20",
+		  "Topics to be covered": "Introduction, Process"
+		 },
+		 {
+		  "Class No.": "21-25",
+		  "Topics to be covered": "Java Programming"
+		 }
+	 ]
+},
+{
+"courseName":"OPERATING SYSTEM LABORATORY",
+"Planning":[
+		 {
+		  "Class No.": "1-3",
+		  "Topics to be covered": "Basic UNIX commands"
+		 },
+		 {
+		  "Class No.": "4-8",
+		  "Topics to be covered": "Shell Programming"
+		 },
+		 {
+		  "Class No.": "9-10",
+		  "Topics to be covered": "Basic Windows commands"
+		 },
+		 {
+		  "Class No.": "11-13",
+		  "Topics to be covered": "Batch scripting in windows"
+		 },
+		 {
+		  "Class No.": "14-20",
+		  "Topics to be covered": "System calls of UNIX"
+		 },
+		 {
+		  "Class No.": "21-25",
+		  "Topics to be covered": "Windows API programming"
+		 }
+	 ]
+}
+]

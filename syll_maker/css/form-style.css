@@ -1,0 +1,117 @@
+
+body{
+    
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  flex-direction: column;
+}
+textarea{
+  padding: 8px;
+  font-size: 18px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th,td {
+    padding: 10px 10px;
+    width: 300px;
+  }
+  
+
+  .course-details{
+    border: 3px solid black;
+    display: grid;
+    width: 90%;
+    grid-template-columns: 1fr 1fr;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    
+  }
+  .item {
+    padding: 5px 10px;
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .item input, .item select {
+    height: 30px;
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
+  }
+
+  .list-section{
+    border: 3px solid black;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 20px;
+  }
+
+  .list-section button{
+    width: 100px;
+    height: 30px;
+  }
+
+  .list-section textarea{
+    width: 100%;
+  }
+
+  .course-content-table {
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  .course-content-table button,
+  #recommended-reading-table button{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+  }
+
+  #recommended-reading-table {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .course-content-table table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+  }
+  th,td {
+    padding: 10px 10px;
+    width: 300px;
+  }
+
+  #quantity {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    padding: 8px;
+  }
+
+  .submit {
+    height: 100px;
+    width: 60px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+
+
+   
+ 
+

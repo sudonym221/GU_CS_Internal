@@ -1,0 +1,17 @@
+[
+  { 
+    "Message":"Admission notice for session 2021-22", 
+    "Badge":"new",
+	"File":"sample.pdf"
+  },
+  { 
+    "Message":"Examination notice for session 2021-22", 
+    "Badge":"new",
+	"File":"sample.pdf"
+  },
+  { 
+    "Message":"Registration for End Term Examination", 
+    "Badge":"old",
+	"File":"sample.pdf"
+  }
+]

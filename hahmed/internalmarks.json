@@ -1,0 +1,489 @@
+[
+{
+"courseName":"Operating System (CSC1036/INF1036)",
+"Marks":[
+    {
+        "Roll No.": "CS-04 (Arrear)",
+        "Name": "PRAKASH SARKAR",
+        "Internal I (30)": "20",
+        "Internal II (25)": "Absent",
+	"Internal III (20)": "10",
+        "Laboratory (10)": "Absent",
+        "Seminar (20)": "12"
+    },
+    {
+        "Roll No.": "CS-01",
+        "Name": "RUPAM BHATTACHARYYA",
+        "Internal I": "23.5",
+        "Internal II": "18",
+	"Internal III": "14",
+        "Laboratory": "5.5",
+        "Seminar": "14"
+    },
+    {
+        "Roll No.": "CS-02",
+        "Name": "SUPRIYA BORAH",
+        "Internal I": "28.5",
+        "Internal II": "25",
+	"Internal III": "17",
+        "Laboratory": "10",
+        "Seminar": "19.5"
+    },
+    {
+        "Roll No.": "CS-03",
+        "Name": "NABA KUMAR CHOUHAN",
+        "Internal I": "Absent",
+        "Internal II": "Absent",
+	"Internal III": "Absent",
+        "Laboratory": "Absent",
+        "Seminar": "Absent"
+    },
+    {
+        "Roll No.": "CS-04",
+        "Name": "PIJUSH SARMA",
+        "Internal I": "23",
+        "Internal II": "18.5",
+	"Internal III": "18",
+        "Laboratory": "10",
+        "Seminar": "17"
+    },
+    {
+        "Roll No.": "CS-05",
+        "Name": "AZISH MAZADI",
+        "Internal I": "7.5",
+        "Internal II": "5",
+	"Internal III": "5",
+        "Laboratory": "5",
+        "Seminar": "Absent"
+    },
+    {
+        "Roll No.": "CS-06",
+        "Name": "PRANAB JYOTI KAKATI",
+        "Internal I": "18",
+        "Internal II": "21",
+	"Internal III": "Absent",
+        "Laboratory": "Absent",
+        "Seminar": "19"
+    },
+    {
+        "Roll No.": "CS-07",
+        "Name": "SUBHASISH DEY",
+        "Internal I": "Absent",
+        "Internal II": "Absent",
+	"Internal III": "Absent",
+        "Laboratory": "Absent",
+        "Seminar": "Absent"
+    },
+    {
+        "Roll No.": "CS-08",
+        "Name": "DAIGY SARMA",
+        "Internal I": "23",
+        "Internal II": "13.5",
+	"Internal III": "13",
+        "Laboratory": "10",
+        "Seminar": "16.5"
+    },
+    {
+        "Roll No.": "CS-09",
+        "Name": "DIGVIJAY BARMAN",
+        "Internal I": "23",
+        "Internal II": "20",
+	"Internal III": "Absent",
+        "Laboratory": "8.5",
+        "Seminar": "19"
+    },
+    {
+        "Roll No.": "CS-10",
+        "Name": "SAGARIKA DEKA",
+        "Internal I": "14",
+        "Internal II": "9",
+	"Internal III": "10",
+        "Laboratory": "2.5",
+        "Seminar": "11"
+    },
+    {
+        "Roll No.": "CS-11",
+        "Name": "MAMONI BARUAH",
+        "Internal I": "18",
+        "Internal II": "12.5",
+	"Internal III": "11",
+        "Laboratory": "6",
+        "Seminar": "15"
+    },
+    {
+        "Roll No.": "CS-12",
+        "Name": "NUNCY PHANJOM",
+        "Internal I": "26",
+        "Internal II": "12.5",
+	"Internal III": "11",
+        "Laboratory": "9.5",
+        "Seminar": "19"
+    },
+    {
+        "Roll No.": "CS-13",
+        "Name": "HIMANSHU PHUKAN",
+        "Internal I": "13.5",
+        "Internal II": "4",
+	"Internal III": "Absent",
+        "Laboratory": "Absent",
+        "Seminar": "10"
+    },
+    {
+        "Roll No.": "CS-14",
+        "Name": "DHANJYOTI NATH",
+        "Internal I": "12",
+        "Internal II": "9",
+	"Internal III": "8",
+        "Laboratory": "3.5",
+        "Seminar": "12"
+    },
+    {
+        "Roll No.": "CS-15",
+        "Name": "UTPAL SUTRADHAR",
+        "Internal I": "17.5",
+        "Internal II": "Absent",
+	"Internal III": "12",
+        "Laboratory": "5",
+        "Seminar": "18"
+    },
+    {
+        "Roll No.": "CS-16",
+        "Name": "FWRDAN BASUMATARY",
+        "Internal I": "11",
+        "Internal II": "6.5",
+	"Internal III": "13",
+        "Laboratory": "4",
+        "Seminar": "15"
+    },
+    {
+        "Roll No.": "CS-17",
+        "Name": "ANAMIKA BASUMATARY",
+        "Internal I": "25",
+        "Internal II": "16",
+	"Internal III": "12",
+        "Laboratory": "7",
+        "Seminar": "16"
+    },
+    {
+        "Roll No.": "CS-18",
+        "Name": "SAR ANGTHIK RONGPI",
+        "Internal I": "7",
+        "Internal II": "2.5",
+	"Internal III": "8",
+        "Laboratory": "2.5",
+        "Seminar": "14"
+    },
+    {
+        "Roll No.": "CS-19",
+        "Name": "ABUL KALAM AZAD",
+        "Internal I": "8",
+        "Internal II": "3",
+	"Internal III": "6",
+        "Laboratory": "Absent",
+        "Seminar": "Absent"
+    },
+    {
+        "Roll No.": "CS-20",
+        "Name": "HIRAK JYOTI BARMAN",
+        "Internal I": "Absent",
+        "Internal II": "Absent",
+	"Internal III": "Absent",
+        "Laboratory": "Absent",
+        "Seminar": "Absent"
+    },
+    {
+        "Roll No.": "IT-01",
+        "Name": "DHRUBAJIT KASHYAP",
+        "Internal I": "20",
+        "Internal II": "12.5",
+	"Internal III": "10",
+        "Laboratory": "3",
+        "Seminar": "12.5"
+    },
+    {
+        "Roll No.": "IT-02",
+        "Name": "TANAZ AKHTER HUSSAIN",
+        "Internal I": "Absent",
+        "Internal II": "9",
+	"Internal III": "6",
+        "Laboratory": "3",
+        "Seminar": "13"
+    },
+    {
+        "Roll No.": "IT-03",
+        "Name": "GAURAB KHAKHLARI",
+        "Internal I": "9",
+        "Internal II": "7.5",
+	"Internal III": "9",
+        "Laboratory": "5",
+        "Seminar": "11.5"
+    },
+    {
+        "Roll No.": "IT-04",
+        "Name": "MAHMUDA HASINA",
+        "Internal I": "12.5",
+        "Internal II": "11",
+	"Internal III": "9",
+        "Laboratory": "4.5",
+        "Seminar": "11"
+    },
+    {
+        "Roll No.": "IT-05",
+        "Name": "TRIDIP LAHKAR",
+        "Internal I": "Absent",
+        "Internal II": "Absent",
+	"Internal III": "Absent",
+        "Laboratory": "Absent",
+        "Seminar": "Absent"
+    },
+    {
+        "Roll No.": "IT-06",
+        "Name": "BHARGAV NATH",
+        "Internal I": "21",
+        "Internal II": "18",
+	"Internal III": "9",
+        "Laboratory": "10",
+        "Seminar": "17"
+    },
+    {
+        "Roll No.": "IT-07",
+        "Name": "BEDANGA BORUAH",
+        "Internal I": "7",
+        "Internal II": "7.5",
+	"Internal III": "8",
+        "Laboratory": "8",
+        "Seminar": "15"
+    },
+    {
+        "Roll No.": "IT-08",
+        "Name": "SATYA SUNDAR SAIKIA",
+        "Internal I": "11",
+        "Internal II": "Absent",
+	"Internal III": "Absent",
+        "Laboratory": "Absent",
+        "Seminar": "Absent"
+    },
+    {
+        "Roll No.": "IT-09",
+        "Name": "LAXMI DAIMARI",
+        "Internal I": "24",
+        "Internal II": "9",
+	"Internal III": "11",
+        "Laboratory": "7",
+        "Seminar": "13.5"
+    },
+    {
+        "Roll No.": "IT-10",
+        "Name": "SERJANG RONGHANG",
+        "Internal I": "7",
+        "Internal II": "13",
+	"Internal III": "13",
+        "Laboratory": "5",
+        "Seminar": "11"
+    },
+    {
+        "Roll No.": "IT-11",
+        "Name": "HIMANSHU RANJAN KASHYAP",
+        "Internal I": "21",
+        "Internal II": "19.5",
+	"Internal III": "11",
+        "Laboratory": "6",
+        "Seminar": "16"
+    },
+    {
+        "Roll No.": "IT-12",
+        "Name": "ASHADUL HOQUE",
+        "Internal I": "15",
+        "Internal II": "7",
+	"Internal III": "Absent",
+        "Laboratory": "TBD",
+        "Seminar": "Absent"
+    },
+    {
+        "Roll No.": "IT-13",
+        "Name": "ARPITA PAUL",
+        "Internal I": "22.5",
+        "Internal II": "15",
+	"Internal III": "10",
+        "Laboratory": "4.5",
+        "Seminar": "16"
+    }
+		  
+]
+},
+{
+"courseName":"Advanced Concepts in OOP (CSC1016/INF1016)",
+"Marks":[
+     {
+        "Roll No.": "CS-04 (Arrear)",
+        "Name": "PRAKASH SARKAR",        
+        "Laboratory (50)": "0"        
+    },
+    {
+        "Roll No.": "CS-01",
+        "Name": "RUPAM BHATTACHARYYA",
+        "Laboratory": "45"
+    },
+    {
+        "Roll No.": "CS-02",
+        "Name": "SUPRIYA BORAH",
+        "Laboratory": "49"
+    },
+    {
+        "Roll No.": "CS-03",
+        "Name": "NABA KUMAR CHOUHAN",
+        "Laboratory": "Absent"
+    },
+    {
+        "Roll No.": "CS-04",
+        "Name": "PIJUSH SARMA",
+        "Laboratory": "40"
+    },
+    {
+        "Roll No.": "CS-05",
+        "Name": "AZISH MAZADI",
+        "Laboratory": "10"
+    },
+    {
+        "Roll No.": "CS-06",
+        "Name": "PRANAB JYOTI KAKATI",
+        "Laboratory": "50"
+    },
+    {
+        "Roll No.": "CS-07",
+        "Name": "SUBHASISH DEY",
+        "Laboratory": "Absent"
+    },
+    {
+        "Roll No.": "CS-08",
+        "Name": "DAIGY SARMA",
+        "Laboratory": "18"
+    },
+    {
+        "Roll No.": "CS-09",
+        "Name": "DIGVIJAY BARMAN",
+        "Laboratory": "40"
+    },
+    {
+        "Roll No.": "CS-10",
+        "Name": "SAGARIKA DEKA",
+        "Laboratory": "10"
+    },
+    {
+        "Roll No.": "CS-11",
+        "Name": "MAMONI BARUAH",
+        "Laboratory": "24"
+    },
+    {
+        "Roll No.": "CS-12",
+        "Name": "NUNCY PHANJOM",
+        "Laboratory": "50"
+    },
+    {
+        "Roll No.": "CS-13",
+        "Name": "HIMANSHU PHUKAN",
+        "Laboratory": "Absent"
+    },
+    {
+        "Roll No.": "CS-14",
+        "Name": "DHANJYOTI NATH",
+        "Laboratory": "0"
+    },
+    {
+        "Roll No.": "CS-15",
+        "Name": "UTPAL SUTRADHAR",
+        "Laboratory": "42"
+    },
+    {
+        "Roll No.": "CS-16",
+        "Name": "FWRDAN BASUMATARY",
+        "Laboratory": "17"
+    },
+    {
+        "Roll No.": "CS-17",
+        "Name": "ANAMIKA BASUMATARY",
+        "Laboratory": "36"
+    },
+    {
+        "Roll No.": "CS-18",
+        "Name": "SAR ANGTHIK RONGPI",
+        "Laboratory": "42"
+    },
+    {
+        "Roll No.": "CS-19",
+        "Name": "ABUL KALAM AZAD",
+        "Laboratory": "0"
+    },
+    {
+        "Roll No.": "CS-20",
+        "Name": "HIRAK JYOTI BARMAN",
+        "Laboratory": "Absent"
+    },
+    {
+        "Roll No.": "IT-01",
+        "Name": "DHRUBAJIT KASHYAP",
+        "Laboratory": "23"
+    },
+    {
+        "Roll No.": "IT-02",
+        "Name": "TANAZ AKHTER HUSSAIN",
+        "Laboratory": "0"
+    },
+    {
+        "Roll No.": "IT-03",
+        "Name": "GAURAB KHAKHLARI",
+        "Laboratory": "49"
+    },
+    {
+        "Roll No.": "IT-04",
+        "Name": "MAHMUDA HASINA",
+        "Laboratory": "15"
+    },
+    {
+        "Roll No.": "IT-05",
+        "Name": "TRIDIP LAHKAR",
+        "Laboratory": "Absent"
+    },
+    {
+        "Roll No.": "IT-06",
+        "Name": "BHARGAV NATH",
+        "Laboratory": "50"
+    },
+    {
+        "Roll No.": "IT-07",
+        "Name": "BEDANGA BORUAH",
+        "Laboratory": "0"
+    },
+    {
+        "Roll No.": "IT-08",
+        "Name": "SATYA SUNDAR SAIKIA",
+        "Laboratory": "Absent"
+    },
+    {
+        "Roll No.": "IT-09",
+        "Name": "LAXMI DAIMARI",
+        "Laboratory": "50"
+    },
+    {
+        "Roll No.": "IT-10",
+        "Name": "SERJANG RONGHANG",
+        "Laboratory": "0"
+    },
+    {
+        "Roll No.": "IT-11",
+        "Name": "HIMANSHU RANJAN KASHYAP",
+        "Laboratory": "49"
+    },
+    {
+        "Roll No.": "IT-12",
+        "Name": "ASHADUL HOQUE",
+        "Laboratory": "13"
+    },
+    {
+        "Roll No.": "IT-13",
+        "Name": "ARPITA PAUL",
+        "Laboratory": "50"
+    }
+]
+}
+]

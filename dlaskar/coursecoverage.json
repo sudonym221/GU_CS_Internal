@@ -1,0 +1,452 @@
+﻿[
+	{
+		"courseName":"Distributed System (CSC3026/INF3026)",
+		"Coverage":[
+		 
+    	{
+        "Class No": "1",
+        "Date": "1/8/2022",
+        "Time": "1-2 PM",
+        "Topics Covered": "<p align=\"justify\">Introduction, Types of Distributed System, Need of a Distributed System, Advantages and Disadvantages",
+	"No of Students Present": "19"
+	},
+    	{
+        "Class No": "2",
+        "Date": "2/8/2022",
+        "Time": "1-2 PM",
+        "Topics Covered": "<p align=\"justify\">Challenges of designing DS, various transperancy levels, Middleware, Mobile Code, Mobile Agents, CORBA architecture",
+	"No of Students Present": "22"
+    	},
+    	{
+        "Class No": "3",
+        "Date": "3/8/2022",
+        "Time": "1-2 PM",
+        "Topics Covered": "<p align=\"justify\">System Modles, Architectural Models, Various architectural styles, Viz., Layered, Object based, Event based, Data centered styles",
+	"No of Students Present": "26"
+    	},
+    	{
+        "Class No": "4",
+        "Date": "4/8/2022",
+        "Time": "1-2 PM",
+        "Topics Covered": "<p align=\"justify\">Fundamental Models (Interaction Model, Failure Modle, Security Model), Various types of Interaction Models",
+	"No of Students Present": "31"
+    	},
+    	{
+        "Class No": "5",
+        "Date": "5/8/2022",
+        "Time": "1-2 PM",
+        "Topics Covered": "<p align=\"justify\">Need of Clock Synchronization,External and Internal Clock,External and Internal Clock, Perfect clock, Clock drift, Clock Skew",
+	"No of Students Present": "25"
+    	},
+    	{
+        "Class No": "6",
+        "Date": "8/8/2022",
+        "Time": "1-2 PM",
+        "Topics Covered": "<p align=\"justify\">Phyical Clocks and Logical Clocks, Atomic Time, Network Time Protocol, Critian Clock",
+	"No of Students Present": "23"
+    	},
+    	{
+        "Class No": "7",
+        "Date": "10/8/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Berkeley Algorithm, Lamport's Logical Clock defintion and algoritm with example",
+	"No of Students Present": "27"
+    	},
+    	{
+        "Class No": "8",
+        "Date": "12/8/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Restrictions in Lamport's Clock, Vector Clock: Rules and Implementation details with examples, introduction to Causal Ordering of messages",
+	"No of Students Present": "28"
+    	},
+    	{
+        "Class No": "9",
+        "Date": "16/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Class not held (All students are absent)",
+	"No of Students Present": "0"
+    	},
+    	{
+        "Class No": "10",
+        "Date": "17/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Difference between event and message ordering, types of protocols for message ordering, Birman-Schiper-Stephenson Protcol",
+	"No of Students Present": "32"
+    	},
+    	{
+        "Class No": "11",
+        "Date": "18/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Schiper-Eggli-Sandoz Protocol: its data structure and algorithm, CASE study, Local State and Global State introduction",
+	"No of Students Present": "29"
+    	},
+	{
+        "Class No": "12",
+        "Date": "22/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Global State's Importance, Consistent and Inconsistent Global States, Cuts, Snapshots, Chandy-Lamport Global Snapshot Recording Algorithim,Case Study",
+	"No of Students Present": "17"
+    	},
+	{
+        "Class No": "13",
+        "Date": "23/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Class not held on student's request",
+	"No of Students Present": "31"
+    	},
+	{
+        "Class No": "14",
+        "Date": "24/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Termination Detection in DS, Haung's Termination Detection Algorithm, Leader Election, Bully Algorithms, Ring Algorithm",
+	"No of Students Present": "23"
+    	},
+	{
+        "Class No": "15",
+        "Date": "25/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Lelang-Chang-Robert Algorithms, Mutual Exclusion in Ds, Requirements of ME, Performance Metrics of ME, Types of ME algorithms, Centrel Server Algorithm",
+	"No of Students Present": "21"
+    	},
+	{
+        "Class No": "16",
+        "Date": "30/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Lamport Timestamp ME algorithm, proof of correctness of Lamport algoritm,Ricart-Agrwal ME algorithm, Complexity of the algorithms",
+	"No of Students Present": "31"
+    	},
+	{
+        "Class No": "17",
+        "Date": "31/08/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Meakawa Voting Algorithm, Central Server Algorithm",
+	"No of Students Present": "26"
+    	},
+	{
+        "Class No": "18",
+        "Date": "01/09/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Suzuki-Kasami Broadcast Token based Algorithm",
+	"No of Students Present": "24"
+    	},
+	{
+        "Class No": "19",
+        "Date": "02/09/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\"><b><font color=\"red\">Class not held<img src=\"dlaskar/Exams/sad1.gif\" width=\"60px\" height=\"45px\">",
+	"No of Students Present": "0"
+    	},
+	{
+        "Class No": "20",
+        "Date": "06/09/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\"><b><font color=\"red\">Class not held<img src=\"dlaskar/Exams/sad1.gif\" width=\"60px\" height=\"45px\">(Attendance Taken Only)",
+	"No of Students Present": "26"
+    	},
+	{
+        "Class No": "21",
+        "Date": "08/09/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\"><b><font color=\"red\">Class not held<img src=\"dlaskar/Exams/sad1.gif\" width=\"60px\" height=\"45px\">",
+	"No of Students Present": "0"
+    	},
+	{
+        "Class No": "22",
+        "Date": "12/09/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Suzuki-Kasami Broadcast Token based Algorithm (Exercise and Sudden Test)",
+	"No of Students Present": "24"
+    	},
+	{
+        "Class No": "23",
+        "Date": "14/09/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Singhal Token based Algorithm for Distributed Mutual Exclusion",
+	"No of Students Present": "27"
+    	},
+	{
+        "Class No": "24",
+        "Date": "02/11/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\">Agreement Protocols in Distributed System: System Model, Aspects of Recognizing the Agreement Protocols, Classification of Agreement Problems (Byzantine agreement problem, Consensus problem, Interactive consistency problem), ",
+	"No of Students Present": "29"
+    	},
+	{
+        "Class No": "25",
+        "Date": "09/11/2022",
+        "Time": "2-3 PM",
+        "Topics Covered": "<p align=\"justify\"> Relations among the Agreement Problems, Solutions to the Byzantine Agreement Problem, Lamport-Shostak-Pease Algorithm",
+	"No of Students Present": "26"
+    	}
+     ]
+},
+	{
+	"courseName":"Laboratory Work in Distributed System (CSC3026/INF3026)",
+	"Coverage":[
+		 
+    		{
+        	"Experiment No": "1",
+        	"Release Date": "22/08/2022",
+		"Demonstartion Date": "09/09/2022",
+        	"Timing": "3-5 PM",
+        	"Experiment Details": "<p align=\"justify\">Write a Program in C/C++ to implement Cristian Clock Algorithm for Physical Clock synchronization"
+		},
+		{
+        	"Experiment No": "2",
+        	"Release Date": "02/08/2022",
+		"Demonstartion Date": "09/09/2022",
+        	"Timing": "3-5 PM",
+        	"Experiment Details": "<p align=\"justify\">Write a Program in C/C++ to implement Berkley Clock Algorithm for Physical Clock synchronization"
+    		},
+		{
+        	"Experiment No": "3",
+        	"Release Date": "09/09/2022",
+		"Demonstartion Date": "16/09/2022",
+        	"Timing": "3-5 PM",
+        	"Experiment Details": "<p align=\"justify\">Write a Program in C/C++ program to demonstrate Socket programming in Computer Networks"
+    		},
+		{
+        	"Experiment No": "4",
+        	"Release Date": "16/09/2022",
+		"Demonstartion Date": "23/09/2022",
+        	"Timing": "3-5 PM",
+        	"Experiment Details": "<p align=\"justify\">Write a Program in C/C++ program to demonstrate Lamport's Logical Clock Algorithm for Event Synchronization"
+    		},
+		{
+        	"Experiment No": "5",
+        	"Release Date": "23/09/2022",
+		"Demonstartion Date": "30/09/2022",
+        	"Timing": "3-5 PM",
+        	"Experiment Details": "<p align=\"justify\">Write a Program in C/C++ program to demonstrate Vector Clock Algorithm for Event Synchronization"
+    		}
+	
+		]
+	},
+	{
+	"courseName":"Advanced ADBMS(CSC1056/INF1056)",
+	"Coverage":[
+		 
+    		{
+        	"Class No": "1",
+        	"Date": "18/08/2022",
+        	"Time": "10-11 PM",
+        	"Topics Covered": "<p align=\"justify\">Defintion of database, data and information, meta data, various types of DBMS, DBMS properties, Advantages of DBMS over File processing System, Actors in DBMS",
+		"No of Students Present": "18"
+    		},
+		{
+        	"Class No": "2",
+        	"Date": "22/08/2022",
+        	"Time": "12-01 PM",
+        	"Topics Covered": "<p align=\"justify\">Users of DBMS, Advantages of DBMS, Data Abstraction, Data Models (High Level/Implementational/Low Level), ER-Data Model, Relational Data Model, Network Data Model, Hierarchical Data Model,Schema, Three Level Schema Architecture of DBMS, Data Independence, Components of a DBMS",
+		"No of Students Present": "24"
+    		},
+		{
+        	"Class No": "3",
+        	"Date": "24/08/2022",
+        	"Time": "12-01 PM",
+        	"Topics Covered": "<p align=\"justify\">Database Languages(DDL, DML, TCL, DCL), Basic concepts of Relational Data Model,Types of Constaints in Relational Model, various types of Keys in DBMS, Relational Algebra, Types of Relational Algebra Expression, SELECT (Sigma), PROJECT (Pi) and RENAME (rho) operation",
+		"No of Students Present": "26"
+    		},
+		{
+        	"Class No": "4",
+        	"Date": "26/08/2022",
+        	"Time": "12-01 PM",
+        	"Topics Covered": "<p align=\"justify\">UNION, INTERECTION, DIFFERENCE,CARTESIAN operation, JOIN operrations (Innner Joins and Outer Joins), INNER JOIN (THETA, NATURAL, EQUI),OUTER JOIN (LEFT, RIGHT, FULL,DIVISON",
+		"No of Students Present": "19"
+    		},
+		{
+        	"Class No": "5",
+        	"Date": "30/08/2022",
+        	"Time": "1-2 PM",
+        	"Topics Covered": "<p align=\"justify\">Extended Relational Operators (Extented Projections, Agregrate Functions, viz.,Count(),Max(), Min(), Avg(), Sum()), Relational Calculus (Tuple Relational Calculus, Domain Relational Calculus), Query Tree, ER-Diagram Introduction,ata Modeling using ER diagram, Concepts of Entity, Entity Sets, Atrributes sets,Relationship in ER diagram",
+		"No of Students Present": "12"
+    		},
+		{
+        	"Class No": "6",
+        	"Date": "01/09/2022",
+        	"Time": "2-3 PM",
+        	"Topics Covered": "<p align=\"justify\">Types of Relationships (Unary, Binary, Ternary, Recursive, N-ary), Types of Entities (Strong and Weak),ypes of Attrbutes (Simple, Composite, Single Valued, Multi-valued, Derived, Stored, Key or Unique attributes) ",
+		"No of Students Present": "12"
+    		},
+		{
+        	"Class No": "7",
+        	"Date": "02/09/2022",
+        	"Time": "11-12 PM",
+        	"Topics Covered": "<p align=\"justify\">Constraints on Binary Relationships: Cardinality ratio and Participation Constarins), Mapping Cardanilities (One to One, One to Many, Many to One, Many to Many), Participation Constraints (Total and Partial)",
+		"No of Students Present": "13"
+    		},
+		{
+        	"Class No": "8",
+        	"Date": "06/09/2022",
+        	"Time": "12-01 PM",
+        	"Topics Covered": "<p align=\"justify\">Case Study: ER diagram design for a Library Management System with Analysis",
+		"No of Students Present": "20"
+		},
+		{
+        	"Class No": "9",
+        	"Date": "08/09/2022",
+        	"Time": "10-11 AM",
+        	"Topics Covered": "<p align=\"justify\">SQL statements (CREATE, DROP, ALTER, DELETE, SELECT)",
+		"No of Students Present": "26"
+		},
+		{
+        	"Class No": "10",
+        	"Date": "08/09/2022",
+        	"Time": "11-12 PM",
+        	"Topics Covered": "<p align=\"justify\">SQL statements (CREATE, DROP, ALTER, DELETE, SELECT)",
+		"No of Students Present": "26"
+		},
+		{
+        	"Class No": "11",
+        	"Date": "12/09/2022",
+        	"Time": "11-12 PM",
+        	"Topics Covered": "<p align=\"justify\">Extended ER Diagram (Sub Classes, Super Classes, Generalization-Specialization, Union Types, Membership Constraints, Conversion of EER into Relational Table",
+		"No of Students Present": "21"
+		},
+		{
+        	"Class No": "12",
+        	"Date": "12/09/2022",
+        	"Time": "11-12 PM",
+        	"Topics Covered": "<p align=\"justify\">Conversion of ER into Relational Table",
+		"No of Students Present": "21"
+		},
+		{
+        	"Class No": "13",
+        	"Date": "13/09/2022",
+        	"Time": "2-3 PM",
+        	"Topics Covered": "<p align=\"justify\">Detailed discussion on Entity Relationship Model",
+		"No of Students Present": "23"
+		},
+		{
+        	"Class No": "14",
+        	"Date": "14/09/2022",
+        	"Time": "11-12 PM",
+        	"Topics Covered": "D<p align=\"justify\">etailed discussion on Enhanced Entity Relationship Model, Conversion of ER model into Relational Tables",
+		"No of Students Present": "20"
+		},
+		{
+        	"Class No": "15",
+        	"Date": "16/09/2022",
+        	"Time": "11-12 PM",
+        	"Topics Covered": "<p align=\"justify\">Introduction to Functional Dependency, Amrstrong's Axiom of FDs, Closure of attribute",
+		"No of Students Present": "20"
+		},
+		{
+        	"Class No": "16",
+        	"Date": "19/09/2022",
+        	"Time": "12-1 PM",
+        	"Topics Covered": "<p align=\"justify\">Closure of attribute with more examples, Finding out Candidate keys from a given FD set",
+		"No of Students Present": "22"
+		},
+		{
+        	"Class No": "17",
+        	"Date": "20/09/2022",
+        	"Time": "12-1 PM",
+        	"Topics Covered": "<p align=\"justify\">Cover of Functional Dependency, Equivalent set of Functional Dependency Sets with Examples",
+		"No of Students Present": "17"
+		},
+		{
+        	"Class No": "18",
+        	"Date": "22/09/2022",
+        	"Time": "11-12 PM",
+        	"Topics Covered": "<p align=\"justify\">Equivalent set of Functional Dependency Sets with more Examples, Irreducible set of functional dependencies, <a href=\"dlaskar/Adbms/CanonicalCover.pdf\">Cannonical Covers</a> of a FD set",
+		"No of Students Present": "13"
+		},
+		{
+        	"Class No": "19",
+        	"Date": "13/10/2022",
+        	"Time": "10-12 PM",
+        	"Topics Covered": "<p align=\"justify\">Normalization, Anomalies (Insert, Delete, Update), 1NF properties and ways to convert of a relation to INF, 2NF properties and ways to convert of a relation to 2NF",
+		"No of Students Present": "17"
+		}
+		]
+	},
+
+	{
+	"courseName":"Advanced ADBMS Laboratory(CSC1056/INF1056)",
+	"Coverage":[
+		 
+    		{
+        	"Experiment No": "1",
+        	"Experiment Details": "<p align=\"justify\">Create a new database(CREATE DATABASE command), Show existing Databases(SHOW DATABASEs command), Using/Selecting an existing Database(USE command), Drop/Delete an existing database (DROP DATABSE command) in MySQL",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\"><br>30/08/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_01_ADBMS.pdf\">Experiment-01</a>"
+    		},
+		{	
+        	"Experiment No": "2",
+        	"Experiment Details": "<p align=\"justify\">Create a new Table(CREATE TABLE command), Show existing Tables(SHOW TABLE command), Drop an existing Table (DROP TABLE command), Show the Description of a table(DESC/DESCRIBE command), display or list columns in an existing table (SHOW COLUMNS/SHOW FULL COLUMNS)",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\"><br>30/08/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_02_ADBMS.pdf\">Experiment-02</a>"
+    		},
+		{
+        	"Experiment No": "3",
+        	"Experiment Details": "<p align=\"justify\">ALTER TABLE command to (add column(s), add column(s) in an specific position (FIRST/AFTER), Modify the definition of a Column (MODIFY), Delete a column(DROP), rename a column/table(RENAME))",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\"><br> 12/09/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_03_ADBMS.pdf\">Experiment-03</a>"
+    		},
+		{
+        	"Experiment No": "4",
+        	"Experiment Details": "<p align=\"justify\">Insert single/multiple record(s) into an existing table(INSERT INTO)",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">08/09/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_04_ADBMS.pdf\">Experiment-04</a>"
+    		},
+		{
+        	"Experiment No": "5",
+        	"Experiment Details": "<p align=\"justify\">Retrieve single/multiple column(s) from the table(SELECT command) withour WHERE clause. <font color=\"blue\">(N.B:<i> WHERE class is discussed in Experiment No-06)",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">08/09/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_05_ADBMS.pdf\">Experiment-05</a>"
+    		},
+		{
+        	"Experiment No": "6",
+        	"Experiment Details": "<p align=\"justify\">WHERE Clause with single/multiple conditions with AND/OR and Combinations of OR/AND,DISTINCT Clause with single/multiple expression(s),ORDER BY clause with/without using ASC/DESC attribute",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_06_ADBMS.pdf\">Experiment-06</a>"
+    		},
+		{
+        	"Experiment No": "7",
+        	"Experiment Details": "<p align=\"justify\">Create single and composite PRIMARY KEY using CREATE/ALTER TABLE command, DROP an existing Primary Key",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">13/09/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_07_ADBMS.pdf\">Experiment-07</a>"
+    		},
+		{
+        	"Experiment No": "8",
+        	"Experiment Details": "<p align=\"justify\">Create FOREIGN KEY using CREATE/ALTER TABLE command, Uses of various REFERENCE OPTIONS in creating Foreign Key (ON DELETE/UPDATE CASCADE, ON DELETE/UPDATE SET NULL, ON DELETE/UPDATE RESTRICT, DROP an existing Foreign Key",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">13/09/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_08_ADBMS.pdf\">Experiment-08</a>"
+    		},
+		{
+        	"Experiment No": "9",
+        	"Experiment Details": "<p align=\"justify\">Aggregate Functions in SQL [COUNT(), MAX(), MIN(), SUM(), AVG(), GROUP_CONCAT()]",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">16/09/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_09_ADBMS.pdf\">Experiment-09</a>"
+    		},
+		{
+        	"Experiment No": "10",
+        	"Experiment Details": "<p align=\"justify\">JOINS in SQL: CROSS JOINS, INNER JOINS(NATURAL,EQUI JOIN), OUTER JOINS(LEFT OUTER JOIN, RIGHT OUTER JOIN, FULL JOINS)",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">16/09/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_10_ADBMS.pdf\">Experiment-10</a>"
+    		},
+		{
+        	"Experiment No": "11",
+        	"Experiment Details": "<p align=\"justify\">SQL logical operators (AND, OR, NOT, IN, LIKE, BETWEEN, ALL, ANY, EXIST and SOME",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">16/09/2022",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_11_ADBMS.pdf\">Experiment-11</a>"
+    		},
+		{
+        	"Experiment No": "12",
+        	"Experiment Details": "<p align=\"justify\">Write the queries for SQL VIEW operations on single/multiple tables(CREATE VIEW, DELETE VIEW)",
+		"Remarks": "<img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">",
+		"Downloads":"<a href=\"dlaskar/Adbms/Ex_12_ADBMS.pdf\">Experiment-12</a>"
+    		},
+		{
+        	"Experiment No": "13",
+        	"Experiment Details": "<p align=\"justify\">Write the queries for Transaction Control Language ( COMMIT, ROLLBACK, SAVEPOINT commands)",
+		"Remarks": "<img src=\"dlaskar/Exams/loader.gif\" width=\"30px\" height=\"25px\">",
+		"Downloads":"Experiment-13"
+    		}
+		
+		]
+	}
+
+	
+]

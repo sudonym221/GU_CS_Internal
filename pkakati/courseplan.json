@@ -1,0 +1,22 @@
+[
+	{
+		"courseName":"Lesson Plans",
+		"Planning":[
+		 {
+		  "Paper Name": "Advanced Concepts in OOP",
+		  "Paper Code": "CSC-1016/ INF-1016",
+		  "Plan": "<a href='/pkakati/PK/ACOOP-1stSem-2022-2023.pdf'>ACOOP Course Plan</a>"
+		 },
+			 {
+		  "Paper Name": "Mathematical Foundation of Computer Science",
+		  "Paper Code": "CSC-1046/ INF-1046",
+		  "Plan": "<a href='/pkakati//PK/MFCS-1stSem-2022-2023.pdf'>MFCS Course Plan</a>"
+		 },
+			 {
+		  "Paper Name": "Programming Languages",
+		  "Paper Code": "CSC-4016/ INF-4016",
+		  "Plan": "<a href='/pkakati//PK/PL-4thSem-2022-2023.pdf'>PL Course Plan</a>"
+		 }		 		 
+		]
+	}
+]

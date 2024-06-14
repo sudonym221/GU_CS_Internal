@@ -1,0 +1,20 @@
+[
+  { 
+    "Name":"Debashih Bhattacharyya", 
+    "Program":"M.Sc. (CS)",
+    "Semester":"3",
+    "Address":"Golaghat"
+  },
+  { 
+    "Name":"Bidyut Bhattacharyya", 
+    "Program":"M.Sc. (IT)",
+    "Semester":"1",
+    "Address":"Jorhat"
+  },
+   { 
+    "Name":"Bipanshi Baruah", 
+    "Program":"M.Sc. (IT)",
+    "Semester":"3",
+    "Address":"Jorhat"
+  }
+]

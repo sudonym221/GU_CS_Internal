@@ -1,0 +1,87 @@
+[
+	{
+		"courseName":"Data Mining and Data Warehousing",
+		"Coverage":[
+		 {
+		  "Date": "1/8/2022",
+		  "Topics Covered": "Introduction to Data Mining, kinds of patterns that can be mined."
+		 },
+		 {
+		  "Date": "2/8/2022",
+		  "Topics Covered": "Data Mining versus Database systems"
+		 },
+		 {
+		  "Date": "4/8/2022",
+		  "Topics Covered": "teps in KDD, Data preparation, cleaning and visualization"
+		 },
+           {
+		  "Date": "9/8/2022",
+		  "Topics Covered": "What is an association rule? Mining association rules, frequent sets, border sets, Metrics:Support,Confidence"
+		 },
+           {
+		  "Date": "10/8/2022",
+		  "Topics Covered": "Algorithms for mining association rules–Apriori algorithm"
+		 },
+           {
+		  "Date": "11/8/2022",
+		  "Topics Covered": "Apriori Algorithm"
+		 },
+           {
+		  "Date": "12/8/2022",
+		  "Topics Covered": "Pincer Search Algorithm"
+		 },
+           {
+		  "Date": "17/8/2022",
+		  "Topics Covered": "Pincer Search Algorithm"
+		 },
+		 {
+		  "Date": "18/8/2022",
+		  "Topics Covered": "FP Tree Algorithm"
+		 },
+           {
+		  "Date": "24/8/2022",
+		  "Topics Covered": "FP Tree Algorithm"
+		 },
+           {
+		  "Date": "25/8/2022",
+		  "Topics Covered": "Repeat the Content(For Ujjal Medhi)"
+		 },
+           {
+		  "Date": "26/8/2022",
+		  "Topics Covered": "Repeat the Content(For Ujjal Medhi)"
+		 },
+           {
+		  "Date": "30/8/2022",
+		  "Topics Covered": "Incremental Algorithm"
+		 },
+		{
+		  "Date": "31/8/2022",
+		  "Topics Covered": "Incremental Algorithm"
+		 },
+           {
+		  "Date": "1/9/2022",
+		  "Topics Covered": "Border Algorithm"
+		 },
+           {
+		  "Date": "2/9/2022",
+		  "Topics Covered": "Generalized association rule,association rule with item constraints."
+		 },
+		 {
+		  "Date": "12/9/2022",
+		  "Topics Covered": "Clustering:types of data in clustering"
+		 },
+           {
+		  "Date": "14/9/2022",
+		  "Topics Covered": "Hierarchical versus Partitional clustering"
+		 },
+           {
+		  "Date": "16/9/2022",
+		  "Topics Covered": "Partitional algorithms–k-means"
+		 },
+		{
+		  "Date": "19/9/2022",
+		  "Topics Covered": "PAM(K Medoid)"
+		 }
+		]
+	}
+]

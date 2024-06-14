@@ -1,0 +1,97 @@
+[
+	{
+		"courseName":"Data Mining and Data Warehousing(CSC 3066)",
+		"Planning":[
+		 {
+		  "Class No.":"1-2",
+		  "Topics":"Data Mining, kinds of patterns that can be mined, Data Mining versus Database systems" 
+           },
+		 {
+		  "Class No.":"3-4",
+		  "Topics":"Steps in KDD, Data preparation, cleaning and visualization"
+		 },
+		 {
+		  "Class No.": "5-6",
+		  "Topics":"What is an association rule? Mining association rules, frequent sets, border sets, Metrics:Support,Confidence"
+		 },
+		 {
+		  "Class No.":"7-8",
+		  "Topics":"Algorithms for mining association rules–Apriori algorithm"
+		 },
+		 {
+		  "Class No.":"8-9",
+		  "Topics": "Pincer-Search algorithm"
+		 },
+		 {
+		  "Class No.":"10-12",
+		  "Topics":"FP Tree Algorithm" 
+           },
+		 {
+		  "Class No.":"13-14",
+		  "Topics":"Incremental Algorithm, Border Algorithm"
+		 },
+		 {
+		  "Class No.":"15-16",
+		  "Topics":"Generalized association rule,association rule with item constraints."
+		 },
+		 {
+		  "Class No.":"17-18",
+		  "Topics": "Clustering:Hierarchical versus Partitional clustering, types of data in clustering"
+		 },
+		 {
+		  "Class No.":"19-20",
+		  "Topics":"Partitional algorithms–k-means"
+		 },
+		 {
+		  "Class No.":"20-21",
+		  "Topics":"k-mediods,PAM,"
+		 },
+		 {
+		  "Class No.":"22-23",
+		  "Topics": "CLARA, CLARANS"
+		 },
+		 {
+		  "Class No.":"24-25",
+		  "Topics":"Density based clustering algorithm–DBSCAN."
+		 },
+		 {
+		  "Class No.":"26-31",
+		  "Topics":"Hierarchicalalgorithms–BIRCH,CURE. Categorical clustering algorithms – ROCK, CACTUS.."
+		 },
+		 {
+		  "Class No.":"32-36",
+		  "Topics": "Decision Trees:Introduction, tree construction principle, decision tree generation algorithms–CART, ID3, C4.5"
+		 },
+		 {
+		  "Class No.":"37-38",
+		  "Topics":"Other techniques for Data Mining:Concepts of Genetic algorithms, Artificial Neural Network."
+		 },
+		 {
+		  "Class No.":"39-40",
+		  "Topics":"Rough sets and their application in the domain of data mining.Introduction to Web Mining, Text Mining,Temporal data  mining."
+		 },
+		 {
+		  "Class No.":"41-42",
+		  "Topics":"Data Warehousing Differences between database systems and Data Warehouse, \n Data Warehouse architecture and its components" 
+            },
+		  {
+		  "Class No.":"43-46",
+		  "Topics":"Warehouse versus Data Mining (OLTP & OLAP), OLAP tools, Data cubes, Multidimensional Data."
+		 }
+		 
+		]
+	},
+	{
+		"courseName":"Data Mining Lab",
+		"Planning":[
+		 {
+		  "Period": "Jan, 2022",
+		  "Topics": "Introduction, Process"
+		 },
+		 {
+		  "Period": "Feb, 2022",
+		  "Topics": "Thread, Synchronization"
+		 }
+		]
+	}
+]

@@ -1,0 +1,99 @@
+[
+	{
+		"courseName":"Course Plans",
+		"Planning":[
+		 {
+		  	"Session": "2018-2019",
+			"Semester": "ODD",
+			"Period": "July, 2018 to December, 2018",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/Distributed System-3rd Sem-2018-2019.pdf\">ODD Semester</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2018-2019",
+			"Semester": "EVEN",
+			"Period": "January, 2018 to June, 2019",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/SE-2nd Sem-2018-2019.pdf\">EVEN Semester</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2018-2019",
+			"Semester": "ODD + EVEN",
+			"Period": "July, 2018 to June, 2019",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/CoursePlan-2018-2019.pdf\">Course Plan-2018-2019.pdf</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2019-2020",
+			"Semester": "ODD",
+			"Period": "July, 2019 to December, 2019",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/DMDW-3rd Sem-2019-2020.pdf\">ODD Semester</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2019-2020",
+			"Semester": "EVEN",
+			"Period": "January, 2020 to October, 2020",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/SE-2nd Sem-2019-2020.pdf\">EVEN Semester</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2019-2020",
+			"Semester": "ODD + EVEN",
+			"Period": "July, 2019 to October, 2020",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/CoursePlan-2019-2020.pdf\">Course Plan-2019-2020.pdf</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		 {
+		  	"Session": "2020-2021",
+			"Semester": "ODD",
+			"Period": "November, 2020 to June, 2021",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/Distributed System-3rd Sem-2020-2021.pdf\">ODD Semester</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2020-2021",
+			"Semester": "EVEN",
+			"Period": "July, 2021 to September, 2021",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/SE-2nd Sem-2020-2021.pdf\">EVEN Semester</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2020-2021",
+			"Semester": "ODD + EVEN",
+			"Period": "November, 2020 to September, 2021",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/CoursePlan-2020-2021.pdf\">Course Plan-2020-2021.pdf</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		
+		 {
+		  	"Session": "2021-2022",
+			"Semester": "ODD",
+			"Period": "October, 2021 to January, 2022",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/Distributed System-3rd Sem-2021-2022.pdf\">ODD Semester</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2021-2022",
+			"Semester": "EVEN",
+			"Period": "February, 2022 to June, 2022",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/SE-2nd Sem-2021-2022.pdf\">EVEN Semester</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2021-2022",
+			"Semester": "ODD + EVEN",
+			"Period": "October, 2021 to June, 2022",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/CoursePlan-2020-2021.pdf\">Course Plan-2021-2022.pdf</a>",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 },
+		{
+		  	"Session": "2022-2023",
+			"Semester": "ODD",
+			"Period": "July, 2022 to December, 2022",
+		  	"Lession Plan": "<a href=\"dlaskar/LessonPlan/ADBMS-1st Sem-2022-2023.pdf\">ODD Semester (ADBMS)</a> and <a href=\"dlaskar/LessonPlan/Distributed System-3rd Sem-2022-2023.pdf\">ODD Semester (Distributed System)</a> ",
+			"Remarks":"Done <img src=\"dlaskar/Exams/right.png\" width=\"30px\" height=\"25px\">"
+		 }	 
+		]
+	}
+]

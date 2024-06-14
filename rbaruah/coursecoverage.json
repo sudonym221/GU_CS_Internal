@@ -1,0 +1,143 @@
+		[
+			{
+				"courseName":"Programming",
+				"Coverage":[
+					 {
+					  "Month": "August, 2022",
+					  "Week": "Week 1",
+					  "Topic": "History and basic idea of Internet. Different types of Internet services, such as, telnet, e-mail, ftp, WWW, etc."
+					 },
+					 {
+					  "Month": "August, 2022",
+					  "Week": "Week 2",
+					  "Topic": "Designing web pages with HTML"
+					 },
+					 {
+					  "Month": "August, 2022",
+					  "Week": "Week 3",
+					  "Topic": "Use of different tags, hyper-links, URLs, tables, text formatting, graphics &amp; multimedia, image-map and forms in web pages."
+					 },
+					{
+						"Month": "August, 2022",
+						"Week": "Week 4",
+						"Topic": "Use of Cascading Style Sheet in web pages."
+					},
+					{
+						"Month": "August, 2022",
+						"Week": "Week 5",
+						"Topic": "Use of CSS and different design issues"
+					},
+					{
+						"Month": "September, 2022",
+						"Week": "Week 1",
+						"Topic": "Basics of JavaScript overview, such as, constants, variables, operators, expressions & statements."
+					},
+					{
+					  
+				        "Month": "September, 2022",
+				        "Week": "Week 2",
+				        "Topic": "Hoisting and Execution in Javascript"
+				    },
+				    {
+				        "Month": "September, 2022",
+				        "Week": "Week 3",
+				        "Topic": "<a href='/rbaruah/Mini-Projects/index-1.html'>Mini Project 1</a>"
+				    },
+				    {
+				        "Month": "September, 2022",
+				        "Week": "Week 4",
+				        "Topic": "Concept of Functions in JS"
+				    },
+				    {
+				        "Month": "September, 2022",
+				        "Week": "Week 5",
+				        "Topic": "Scope Chain, Lexical Environment in JavaScript"
+				    },
+				    {
+				        "Month": "October, 2022",
+				        "Week": "Week 1",
+				        "Topic": "Holidays"
+				    },
+				    {
+				        "Month": "October, 2022",
+				        "Week": "Week 2",
+				        "Topic": "Holidays"
+				    },
+				    {
+				        "Month": "October, 2022",
+				        "Week": "Week 3",
+				        "Topic": "Lexical Environment in JavaScript, Variable Environment"
+				    },
+				    {
+				        "Month": "October, 2022",
+				        "Week": "Week 4",
+				        "Topic": "Lexical Environment in JavaScript, Variable Environment"
+				    },
+				    {
+				        "Month": "October, 2022",
+				        "Week": "Week 5",
+				        "Topic": "NA"
+				    },
+				    {
+				        "Month": "October, 2022",
+				        "Week": "Week 6",
+				        "Topic": "Holidays"
+				    },
+				    {
+				        "Month": "November, 2022",
+				        "Week": "Week 1",
+				        "Topic": "Blocks and Shadowing "
+				    },
+				    {
+				        "Month": "November, 2022",
+				        "Week": "Week 2",
+				        "Topic": "Closures, Callback Functions"
+				    },
+				    {
+				        "Month": "November, 2022",
+				        "Week": "Week 3",
+				        "Topic": "Document Object Modelling"
+				    },
+				    {
+				        "Month": "November, 2022",
+				        "Week": "Week 4",
+				        "Topic": "<a href='/rbaruah/Mini-Projects/index-2.html'>Mini Project 2</a>"
+				    },
+				    {
+				        "Month": "November, 2022",
+				        "Week": "Week 5",
+				        "Topic": "DNS, Map, Reduce and Filter"
+				    },
+				    {
+				        "Month": "December, 2022",
+				        "Week": "Week 1",
+				        "Topic": "XML Sitemaps, Search Engine Optimization"
+				    },
+				    {
+				        "Month": "December, 2022",
+				        "Week": "Week 2",
+				        "Topic": "<a href='/rbaruah/Mini-Projects/index.html'>Personal Portfolio Website</a>"
+				    },
+				    {
+				        "Month": "December, 2022",
+				        "Week": "Week 3",
+				        "Topic": "Revision"
+				    },
+				    {
+				        "Month": "December, 2022",
+				        "Week": "Week 4",
+				        "Topic": "Exam"
+				    },
+				    {
+				        "Month": "December, 2022",
+				        "Week": "Week 5",
+				        "Topic": "Exam"
+				    },
+					{
+						"Month": "December, 2022",
+						"Week": "Week 5",
+						"Topic": "Exam"
+					}
+					]
+			}
+		]

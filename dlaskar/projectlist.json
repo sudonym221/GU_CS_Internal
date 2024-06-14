@@ -1,0 +1,46 @@
+[
+    {
+        "S.No.": "1",
+        "Class Roll No": "CS 10",
+	"Semester": "3RD",
+	"Name of the student": "<img src=\"dlaskar/Project/PS.jpg\" width=\"52px\" height=\"65px\"><br>PRIYANKA SARMA",
+        "Seminar Topics": "Gait Analysis using ML",
+	"No of Meetings": "03",
+	"Meetings Attended": "03",
+	"Date of Last Meeting":"22/09/2022 1:00 PM",
+	"Date of Next Meeting": "Not Decided"
+    },
+    {
+        "S.No.": "2",
+        "Class Roll No": "CS 15",
+	"Semester": "3RD",
+        "Name of the student": "<img src=\"dlaskar/Project/RK.jpg\" width=\"48px\" height=\"65px\"><br>RUPAM JYOTI KUMAR",
+        "Seminar Topics": "Precision Agriculture using ML",
+	"No of Meetings": "03",
+	"Meetings Attended": "02",
+	"Date of Last Meeting":"22/09/2022 1:00 PM",
+	"Date of Next Meeting": "Not Decided"
+    },
+    {
+        "S.No.": "3",
+        "Class Roll No": "IT 10",
+	"Semester": "3RD",
+        "Name of the student": "<img src=\"dlaskar/Project/PNA.jpg\" width=\"52px\" height=\"65px\"><br>GOBIN MUSHAHARY",
+        "Seminar Topics": "ML in Pest Control and Desease Detection",
+	"No of Meetings": "03",
+	"Meetings Attended": "00",
+	"Date of Last Meeting":"22/09/2022 1:00 PM",
+	"Date of Next Meeting": "<img src=\"dlaskar/Exams/NI.gif\" width=\"90px\" height=\"90px\"></br>He has Changed his Supervisor"
+    },
+    {
+        "S.No.": "4",
+        "Class Roll No": "CS 06",
+	"Semester": "3RD",
+        "Name of the student": "<img src=\"dlaskar/Project/RD.jpg\" width=\"48px\" height=\"65px\"><br>RINJI DEKA",
+        "Seminar Topics": "Stress Management using ML",
+	"No of Meetings": "03",
+	"Meetings Attended": "03",
+	"Date of Last Meeting":"20/09/2022 1:00 PM",
+	"Date of Next Meeting": "Not Decided"
+    }
+]

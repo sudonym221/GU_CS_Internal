@@ -1,0 +1,40 @@
+[
+	{
+		"courseName":"Programming",
+		"Planning":[
+		 {
+		  "Period": "Jan, 2022",
+		  "Topics": "Introduction, Programming Languages"
+		 },
+		 {
+		  "Period": "Feb, 2022",
+		  "Topics": "Software types, Application software"
+		 },
+		 {
+		  "Period": "March, 2022",
+		  "Topics": "System software, Translators"
+		 },
+		 {
+		  "Period": "April, 2022",
+		  "Topics": "Assembly language, Assembler"
+		 },
+		 {
+		  "Period": "May, 2022",
+		  "Topics": "Python, Java"
+		 }		 
+		]
+	},
+	{
+		"courseName":"Operating System",
+		"Planning":[
+		 {
+		  "Period": "Jan, 2022",
+		  "Topics": "Introduction, Process"
+		 },
+		 {
+		  "Period": "Feb, 2022",
+		  "Topics": "Thread, Synchronization"
+		 }
+		]
+	}
+]

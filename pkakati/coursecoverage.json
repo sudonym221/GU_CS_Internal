@@ -1,0 +1,28 @@
+[
+	{
+		"courseName":"MFCS",
+		"Coverage":[
+		 {
+		  "Date": "Aug 17, 2022",
+		  "Topics": "Set theory"
+		 },
+		 {
+		  "Date": "Aug 18",
+		  "Topics": "To be uploaded shortly"
+		 }		 
+		]
+	},
+	{
+		"courseName":"Advanced Concepts in OOP",
+		"Coverage":[
+		 {
+		  "Date": "Aug 17, 2022",
+		  "Topics": "To be uploaded shortly"
+		 },
+		 {
+		  "Date": "Aug 18, 2022",
+		  "Topics": "To be uploaded shortly"
+		 }
+		]
+	}
+]

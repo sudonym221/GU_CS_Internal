@@ -1,0 +1,360 @@
+[
+{"Date of Display":"7/09/2022",
+"Data":[
+ {
+  
+  "Class Roll No.": "CS 01",
+  "Student Name": "PULAK NATH",
+  "DM(14)": "NA",
+  "IP(8)": 8,
+  "TC(5)": 5,
+  "WPT(14)": "NA",
+  "CD": 12,
+  "DS(19)": 18,
+  "%": 97.73
+ },
+ {
+  "Class Roll No.": "CS 02",
+  "Student Name": "ASHIF SAIKIA",
+  "DM(14)": "NA",
+  "IP(8)": 3,
+  "TC(5)": 1,
+  "WPT(14)": "NA",
+  "CD": 7,
+  "DS(19)": 5,
+  "%": 36.36
+ },
+ {
+  "Class Roll No.": "CS 03",
+  "Student Name": "ABHIJIT KAKATI",
+  "DM(14)": "NA",
+  "IP(8)": 2,
+  "TC(5)": 4,
+  "WPT(14)": "NA",
+  "CD": 4,
+  "DS(19)": 11,
+  "%": 47.73
+ },
+ {
+  "Class Roll No.": "CS 04",
+  "Student Name": "PRAKASH SARKAR",
+  "DM(14)": "NA",
+  "IP(8)": 5,
+  "TC(5)": 4,
+  "WPT(14)": "NA",
+  "CD": 11,
+  "DS(19)": 15,
+  "%": 79.55
+ },
+ {
+  "Class Roll No.": "CS 05",
+  "Student Name": "DEBASISH DUTTA",
+  "DM(14)": "NA",
+  "IP(8)": "NA",
+  "TC(5)": 4,
+  "WPT(14)": 14,
+  "CD": 12,
+  "DS(19)": 15,
+  "%": 90
+ },
+ {
+  "Class Roll No.": "CS 06",
+  "Student Name": "RINJI DEKA",
+  "DM(14)": "NA",
+  "IP(8)": "NA",
+  "TC(5)": 5,
+  "WPT(14)": 13,
+  "CD": 10,
+  "DS(19)": 16,
+  "%": 88
+ },
+ {
+  "Class Roll No.": "CS 07",
+  "Student Name": "NEEHARIKA SONOWAL",
+  "DM(14)": "NA",
+  "IP(8)": "NA",
+  "TC(5)": 5,
+  "WPT(14)": 14,
+  "CD": 12,
+  "DS(19)": 18,
+  "%": 98
+ },
+ {
+  "Class Roll No.": "CS 08",
+  "Student Name": "DRISHTI SAHA",
+  "DM(14)": "NA",
+  "IP(8)": 8,
+  "TC(5)": 4,
+  "WPT(14)": "NA",
+  "CD": 12,
+  "DS(19)": 17,
+  "%": 93.18
+ },
+ {
+  "Class Roll No.": "CS 09",
+  "Student Name": "JAYABRAT DEKA",
+  "DM(14)": "NA",
+  "IP(8)": 7,
+  "TC(5)": 5,
+  "WPT(14)": "NA",
+  "CD": 9,
+  "DS(19)": 10,
+  "%": 70.45
+ },
+ {
+  "Class Roll No.": "CS 10",
+  "Student Name": "PRIYANKA SARMA",
+  "DM(14)": "NA",
+  "IP(8)": 7,
+  "TC(5)": 3,
+  "WPT(14)": "NA",
+  "CD": 10,
+  "DS(19)": 15,
+  "%": 79.55
+ },
+ {
+  "Class Roll No.": "CS 11",
+  "Student Name": "JYOTISHMAAN BHAGAWATI",
+  "DM(14)": "NA",
+  "IP(8)": 8,
+  "TC(5)": 5,
+  "WPT(14)": "NA",
+  "CD": 12,
+  "DS(19)": 18,
+  "%": 97.73
+ },
+ {
+  "Class Roll No.": "CS 12",
+  "Student Name": "MASIDUR RAHMAN",
+  "DM(14)": "NA",
+  "IP(8)": 6,
+  "TC(5)": 5,
+  "WPT(14)": "NA",
+  "CD": 10,
+  "DS(19)": 16,
+  "%": 84.09
+ },
+ {
+  "Class Roll No.": "CS 13",
+  "Student Name": "MANASH CHOUDHURI",
+  "DM(14)": "NA",
+  "IP(8)": 8,
+  "TC(5)": 5,
+  "WPT(14)": "NA",
+  "CD": 12,
+  "DS(19)": 18,
+  "%": 97.73
+ },
+ {
+  "Class Roll No.": "CS 14",
+  "Student Name": "VARGABH BORGOHAIN",
+  "DM(14)": "NA",
+  "IP(8)": "NA",
+  "TC(5)": 2,
+  "WPT(14)": 7,
+  "CD": 6,
+  "DS(19)": 12,
+  "%": 54
+ },
+ {
+  "Class Roll No.": "CS 15",
+  "Student Name": "RUPAM JYOTI KUMAR",
+  "DM(14)": "NA",
+  "IP(8)": 5,
+  "TC(5)": 4,
+  "WPT(14)": "NA",
+  "CD": 9,
+  "DS(19)": 14,
+  "%": 72.73
+ },
+ {
+  "Class Roll No.": "CS 16",
+  "Student Name": "NASIMA AKHTARA",
+  "DM(14)": "NA",
+  "IP(8)": 6,
+  "TC(5)": 2,
+  "WPT(14)": "NA",
+  "CD": 9,
+  "DS(19)": 16,
+  "%": 75
+ },
+ {
+  "Class Roll No.": "CS 17",
+  "Student Name": "WAHIDUR RAHMAN",
+  "DM(14)": "NA",
+  "IP(8)": 5,
+  "TC(5)": 4,
+  "WPT(14)": "NA",
+  "CD": 9,
+  "DS(19)": 14,
+  "%": 72.73
+ },
+ {
+  "Class Roll No.": "CS 18",
+  "Student Name": "BINOY DAS",
+  "DM(14)": "NA",
+  "IP(8)": 5,
+  "TC(5)": 2,
+  "WPT(14)": "NA",
+  "CD": 8,
+  "DS(19)": 17,
+  "%": 72.73
+ },
+ {
+  "Class Roll No.": "CS 19",
+  "Student Name": "RHITU RAJ DEORI",
+  "DM(14)": 12,
+  "IP(8)": "NA",
+  "TC(5)": 5,
+  "WPT(14)": "NA",
+  "CD": 10,
+  "DS(19)": 15,
+  "%": 84
+ },
+ {
+  "Class Roll No.": "CS 20",
+  "Student Name": "MUKTA BRAHMA",
+  "DM(14)": "NA",
+  "IP(8)": 5,
+  "TC(5)": 4,
+  "WPT(14)": "NA",
+  "CD": 10,
+  "DS(19)": 16,
+  "%": 79.55
+ },
+ {
+  "Class Roll No.": "IT 01",
+  "Student Name": "UJJAL MEDHI",
+  "DM(14)": 2,
+  "IP(8)": 1,
+  "TC(5)": "NA",
+  "WPT(14)": 6,
+  "CD": 6,
+  "DS(19)": "NA",
+  "%": 31.25
+ },
+ {
+  "Class Roll No.": "IT 02",
+  "Student Name": "MADHURI BARMAN",
+  "DM(14)": "NA",
+  "IP(8)": 5,
+  "TC(5)": "NA",
+  "WPT(14)": 12,
+  "CD": 9,
+  "DS(19)": 16,
+  "%": 79.25
+ },
+ {
+  "Class Roll No.": "IT 03",
+  "Student Name": "CHITRALEKHA PAUL",
+  "DM(14)": "NA",
+  "IP(8)": 8,
+  "TC(5)": "NA",
+  "WPT(14)": 12,
+  "CD": 10,
+  "DS(19)": 15,
+  "%": 84.91
+ },
+ {
+  "Class Roll No.": "IT 04",
+  "Student Name": "CHIDANGSHA SEKHAR BEZBORUAH",
+  "DM(14)": "NA",
+  "IP(8)": 8,
+  "TC(5)": "NA",
+  "WPT(14)": 13,
+  "CD": 11,
+  "DS(19)": 18,
+  "%": 94.34
+ },
+ {
+  "Class Roll No.": "IT 05",
+  "Student Name": "JENISH ALI BORAH",
+  "DM(14)": "NA",
+  "IP(8)": 7,
+  "TC(5)": "NA",
+  "WPT(14)": 14,
+  "CD": 12,
+  "DS(19)": 16,
+  "%": 92.45
+ },
+ {
+  "Class Roll No.": "IT 06",
+  "Student Name": "SREYASI NATH",
+  "DM(14)": "NA",
+  "IP(8)": 4,
+  "TC(5)": "NA",
+  "WPT(14)": 12,
+  "CD": 9,
+  "DS(19)": 14,
+  "%": 73.58
+ },
+ {
+  "Class Roll No.": "IT 07",
+  "Student Name": "HIMANGSHU DAS",
+  "DM(14)": "NA",
+  "IP(8)": 7,
+  "TC(5)": "NA",
+  "WPT(14)": 13,
+  "CD": 11,
+  "DS(19)": 17,
+  "%": 90.57
+ },
+ {
+  "Class Roll No.": "IT 08",
+  "Student Name": "TAMIZUDDIN AHMED",
+  "DM(14)": "NA",
+  "IP(8)": 3,
+  "TC(5)": "NA",
+  "WPT(14)": 9,
+  "CD": 4,
+  "DS(19)": 10,
+  "%": 49.06
+ },
+ {
+  "Class Roll No.": "IT 10",
+  "Student Name": "GOBIN MUSHAHARY",
+  "DM(14)": "NA",
+  "IP(8)": 2,
+  "TC(5)": "NA",
+  "WPT(14)": 9,
+  "CD": 6,
+  "DS(19)": 11,
+  "%": 52.83
+ },
+ {
+  "Class Roll No.": "IT 11",
+  "Student Name": "PRITAM PANDIT",
+  "DM(14)": "NA",
+  "IP(8)": 7,
+  "TC(5)": "NA",
+  "WPT(14)": 14,
+  "CD": 9,
+  "DS(19)": 18,
+  "%": 90.57
+ },
+ {
+  "Class Roll No.": "IT 12",
+  "Student Name": "NABANITA DUTTA",
+  "DM(14)": "NA",
+  "IP(8)": 4,
+  "TC(5)": "NA",
+  "WPT(14)": 8,
+  "CD": 8,
+  "DS(19)": 15,
+  "%": 66.04
+ },
+ {
+  "Class Roll No.": "IT 13",
+  "Student Name": "NIBIR BORKATAKI",
+  "DM(14)": "NA",
+  "IP(8)": 5,
+  "TC(5)": "NA",
+  "WPT(14)": 13,
+  "CD": 10,
+  "DS(19)": 16,
+  "%": 83.02
+ }
+]
+
+}
+]

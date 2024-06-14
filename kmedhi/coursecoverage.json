@@ -1,0 +1,31 @@
+[
+	{
+		"courseName":"Advanced Computer Organization and Architecture",
+		"Coverage":[
+		 {
+		  "Period": "August, 2022",
+		  "Topics": "Instruction Set Architecture:"
+		 },
+		 {
+		  "Period": "September, 2022",
+		  "Topics": "Instruction Set Architecture, Processor Design:"
+		 },
+		 {
+		  "Period": "October, 2022",
+		  "Topics": "Memory:"
+		 }	,
+		 {
+		  "Period": "November, 2022",
+		  "Topics": "Input Output System, Parallel Architectures :"
+		 }	,
+		 {
+		  "Period": "December, 2022",
+		  "Topics": "Advanced concepts, Branch prediction, super pipelining,  superscalar architecture,
+superscalar pipelines, superscalar branch prediction, out of order execution, register renaming, Pipeline
+scheduling, 
+ VLIW architecture,
+EPIC architecture,  Cache coherence problem:"
+		 }					 
+		]
+	}
+]

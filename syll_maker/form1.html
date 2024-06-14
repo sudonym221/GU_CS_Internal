@@ -1,0 +1,186 @@
+
+<!-- Template for the syllabus per semester -->
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/html2pdf.js"></script>
+    <script src=
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+       </script>
+       <script src=
+   "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js">
+       </script>
+       <script src=
+    "https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js">
+       </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syllabus</title>
+</head>
+<body>
+    <h2 class="heading bold" style="text-align: center;"> Detailed Syllabus</h3>
+        <br>
+    <h4>SEMESTER NAME: <span id="semester-name"></span> SEMESTER</h4>
+
+    <table style="border: 1px solid black; border-collapse: collapse; width: 100%;">
+        <tr>
+            <td style="border: 1px solid black;">
+                <p>Course Code: <span  id="course-code"></span></p>
+                <p>COURSE NAME: <span id="course-name"></span></p>
+                <p>COURSE TYPE: <span id="course-type"></span></p>
+                <p>NUMBER OF CREDITS: <span id="course-credit"></span></p>
+            </td>
+            <td style="border: 1px solid black;">
+                <p>L-T-P: <span id="course-ltp"></span></p>
+                <p>CONTACT HOURS/WEEK: <span id="course-contact-hour"></span></p>
+                <p>NON-CONTACT HOURS: <span id="course-non-contact-hour"></span></p>
+                <p>TOTAL MARKS: <span id="course-total-marks"></span></p>
+                <p>NATURE: <span id="course-nature"></span></p>
+            </td>
+        </tr>
+    </table>
+    <br>
+    <h4>COURSE DISCRIPTION:</h4>
+    <p id="course-description">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi enim dolore soluta doloribus fugit consequuntur culpa aliquam delectus earum repellat ex ad modi numquam, nisi, sint voluptatum autem magni fuga?</p>
+
+    <br>
+    <h4>COURSE OBJECTIVES:</h4>
+    <ol id="objective-list">
+        <li>To familiarize students with concepts of data abstraction, polymorphism, inheritance, exception handling and file 
+            handling in Object Oriented Programming</li>
+        <li>To provide students with concepts of different Object Oriented Design approaches, Object Oriented Modeling 
+            (OMT) tools and phases of development.</li>
+        <li>To make students able to implement features of Object Oriented Programming solve real world problems.</li>
+    </ol>
+
+    <br>
+    <h4>COURSE PREREQUISITES:</h4>
+    <ol id="prereq-list">
+        <li>To familiarize students with concepts of data abstraction, polymorphism, inheritance, exception handling and file 
+            handling in Object Oriented Programming</li>
+        <li>To provide students with concepts of different Object Oriented Design approaches, Object Oriented Modeling 
+            (OMT) tools and phases of development.</li>
+        <li>To make students able to implement features of Object Oriented Programming solve real world problems.</li>
+    </ol>
+    <br>
+    <h4>COURSE OUTCOME:</h4>
+    <p>At the end of the course, students will be able to:</p>
+    <ol id="outcome-list">
+        <li>Differentiate between structured programming and Object Oriented Programming methodologies.</li>
+        <li>Develop programs using different object oriented programming features such as data abstraction, polymorphism</li>
+        <li>Analyze different object Oriented Design Approaches and implement it to real life problems</li>
+        <li>Implement different Object Modeling Techniques (OMT) techniques.</li>
+    </ol>
+    <br>
+    <h4>ASSESSMENT CRITERIA:</h4>
+    <ol id="assessment-criteria-list">
+       <!-- assessment criteria item list created here -->
+    </ol>
+    <br>
+
+
+    <h4>COURSE CONTENT:</h4>
+    <table id="contentTable" style="border: 1px solid black; border-collapse: collapse;width: 100%;">
+        <tr>
+            <th>Unit No & Name</th>
+            <th>Components of the Unit</th>
+            <th>No of contact hours</th>
+            <th>Marks</th>
+        </tr>
+
+        <tr>
+            <td>UNIT-I:
+                Object Oriented 
+                Programming</td>
+            <td>
+                <ul>
+                    <li>Introduction: Definition and Concepts of 
+                        Structured Programming and Object Oriented 
+                        Programming paradigms.</li>
+                    <li>Data abstraction: Object, class, member and 
+                        friend functions, memory allocation for objects, 
+                        constructors and destructors, templates.</li>
+                    <li>Inheritance: Extending a class, casting up the 
+                        hierarchy, single and multiple inheritances, 
+                        virtual base class.</li>
+                    <li>Polymorphism: Compile time polymorphism, 
+                        operator overloading, function overloading, static 
+                        binding, run-time polymorphism, virtual 
+                        functions, pure virtual functions, abstract class, 
+                        dynamic binding.</li>
+                </ul>
+            </td>
+            <td>60</td>
+            <td>60</td>
+        </tr>
+
+        <tr>
+            <td>UNIT-II:
+                Object Oriented 
+                Programming</td>
+            <td>
+                <ul>
+                    <li>Introduction: Definition and Concepts of 
+                        Structured Programming and Object Oriented 
+                        Programming paradigms.</li>
+                    <li>Data abstraction: Object, class, member and 
+                        friend functions, memory allocation for objects, 
+                        constructors and destructors, templates.</li>
+                    <li>Inheritance: Extending a class, casting up the 
+                        hierarchy, single and multiple inheritances, 
+                        virtual base class.</li>
+                    <li>Polymorphism: Compile time polymorphism, 
+                        operator overloading, function overloading, static 
+                        binding, run-time polymorphism, virtual 
+                        functions, pure virtual functions, abstract class, 
+                        dynamic binding.</li>
+                </ul>
+            </td>
+            <td>60</td>
+            <td>60</td>
+        </tr>
+
+        <tr>
+            <td>UNIT-III:
+                Object Oriented 
+                Programming</td>
+            <td>
+                <ul>
+                    <li>Introduction: Definition and Concepts of 
+                        Structured Programming and Object Oriented 
+                        Programming paradigms.</li>
+                    <li>Data abstraction: Object, class, member and 
+                        friend functions, memory allocation for objects, 
+                        constructors and destructors, templates.</li>
+                    <li>Inheritance: Extending a class, casting up the 
+                        hierarchy, single and multiple inheritances, 
+                        virtual base class.</li>
+                    <li>Polymorphism: Compile time polymorphism, 
+                        operator overloading, function overloading, static 
+                        binding, run-time polymorphism, virtual 
+                        functions, pure virtual functions, abstract class, 
+                        dynamic binding.</li>
+                </ul>
+            </td>
+            <td>60</td>
+            <td>60</td>
+        </tr>
+    </table>
+    <br>
+
+
+    <h3>Textbook/Recommended Reading List:</h3>
+    <ol id="reading-list"></ol>
+    <br>
+
+    
+    <h3>Course Assessment Details</h3>
+    <label for="internal-assessment"><strong>Internal Assessment:</strong></label>
+    <p id="internal-assessment"></p>
+
+    <label for="external-assessment"><strong>External Assessment:</strong></label>
+    <p id="external-assessment"></p>
+    <script src="app.js"></script>
+</body>
+</html>

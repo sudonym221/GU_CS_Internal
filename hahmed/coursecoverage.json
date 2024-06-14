@@ -1,0 +1,152 @@
+[
+	{
+		"courseName":"Operating System",
+		"Coverage":[
+		 {
+		  "Date": "18/08/2022",
+		  "Topics covered": "Subsystems of a Computer, Instruction Execution Cycle"
+		 },
+		{
+		  "Date": "22/08/2022",
+		  "Topics covered": "Programming Languages, Translators, Compiler, Interpreter"
+		 },
+		{
+		  "Date": "23/08/2022",
+		  "Topics covered": "Types of Software, Operating System, CPU, Registers"
+		 },
+		{
+		  "Date": "24/08/2022",
+		  "Topics covered": "Distribution of Seminar Topics, Software implementation of Instruction, RISC, CISC"
+		 },
+		{
+		  "Date": "30/08/2022",
+		  "Topics covered": "RISC design principles, Instruction pipelining, Superscalar architecture, SIMD & Vector processors, Multiprocessor, Multicomputer"
+		 },
+		{
+		  "Date": "31/08/2022",
+		  "Topics covered": "Primary memory, Memory address, Cell, Word, Big endian & Little endian systems"
+		 },
+		{
+		  "Date": "01/09/2022",
+		  "Topics covered": "(Lab) Shell & Command prompt, shell script & batch program, whoami & users & who commands, ls-l output, metacharacters, cat command, wc command, file permission, chmod command"
+		 },
+		{
+		  "Date": "02/09/2022",
+		  "Topics covered": "Cache memory, Cache memory acess time, SIP, DIP, SIMM, DIMM, Memory hierarchy"
+		 },
+		{
+		  "Date": "06/09/2022",
+		  "Topics covered": "Functions of Operating System, Long term and Short term scheduler, turn around time, waiting time, response time, FCFS"
+		 },
+		{
+		  "Date": "07/09/2022",
+		  "Topics covered": "SJF, Starvation problem, SRTF, Round Robin algorithm"
+		 },
+		{
+		  "Date": "19/09/2022",
+		  "Topics covered": "Multilevel Queue Algorithm, Multilevel Feedback Queue Algorithm, Scheduling for Proceses with both CPU and IO bursts"
+		 },
+	 	{
+		  "Date": "14/10/2022",
+		  "Topics covered": "Magnetic Hard Disk, Track, Sector, Cylinder, CAV and CLV, Seek time, Rotational delay, Compact Disk, Digital Versatile Disk, Blu Ray Disk"
+		 },
+	 	{
+		  "Date": "21/10/2022",
+		  "Topics covered": "Bus, Controller, DMA, Keyboard, Touchscreen technologies, LCD, LED, TFT, AMOLED, Mouse technologies"
+		 },
+	 	{
+		  "Date": "02/11/2022",
+		  "Topics covered": "Printers, printer types, Inkjet printer, Laser printer, Dot matrix printer, Thermal printer, Types of operating system"
+		 },
+	 	{
+		  "Date": "04/11/2022",
+		  "Topics covered": "Memory management, Requirements of memory management, Physical and Logical address, Memory partitioning, Fixed partitioning, Equal fixed partition"
+		 },
+	 	{
+		  "Date": "09/11/2022",
+		  "Topics covered": "Unequal fixed partition, Placement algorithms, Dynamic partitioning, Inernal and External fragmentation, Fixed and variable relocation"
+		 },
+	 	{
+		  "Date": "11/11/2022",
+		  "Topics covered": "Paging and Segmentation"
+		 },
+	 	{
+		  "Date": "22/11/2022",
+		  "Topics covered": "Virtual memory, Need of virtual memory, Paging vs virtual paging, Segmentation vs virtual segmentation, Thrashing, Principle of locality of reference, Virtual paging, Address translation in virtual paging"
+		 },
+	 	{
+		  "Date": "25/11/2022",
+		  "Topics covered": "Inverted page table, Translation lookaside buffer, Virtual segmentation, Address translation in virtual segmentation, Segmented paging, Address translation in segmented paging"
+		 },
+	 	{
+		  "Date": "28/11/2022",
+		  "Topics covered": "Deadlock, Necessary conditions for deadlock, Resource allocation graph, Deadlock handling schemes, Ostrich algorithm, Deadlock prevention, Deadlock avoidance, Safe state, Resource allocation graph based algorithm, Banker's algorithm"
+		 },
+		{
+		  "Date": "28/10/2022",
+		  "Topics covered": "Shell scripting, echo command, variable creation and display, reading a value from user, writing arithmetic expression, decision making using if-else statement"
+		 },
+	 	{
+		  "Date": "29/11/2022",
+		  "Topics covered": "While loop in shell scripting, Command line argument in shell scripting, For loop in shell scripting"
+		 },
+		{
+		  "Date": "30/11/2022",
+		  "Topics covered": "While loop nesting in shell scripting"
+		 },
+	 	{
+		  "Date": "05/12/2022",
+		  "Topics covered": "Shell scripting, Nested loops, Functions, Function arguments, Function return type"
+		 },
+	 	{
+		  "Date": "06/12/2022",
+		  "Topics covered": "Race condition, Critical section problem, Characteristics of a solution to critical section problem, Peterson's algorithm, Bakery algorithm"
+		 }
+		]
+	},
+	{
+		"courseName":"Advanced OOP Laboratory",
+		"Coverage":[
+		 {
+		  "Date": "16/08/2022",
+		  "Topics covered": "Introduction to linux environment & basic commands, PATH environmental variable, External & Internal commands"
+		 },
+		 {
+		  "Date": "17/08/2022",
+		  "Topics covered": "Conducted a C quiz to assess C skills, in between covered some c concepts and number system conversion"
+		 },
+		 {
+		  "Date": "24/08/2022",
+		  "Topics covered": "Command line arguments, goto statement, c enumerations, preprocessor directives"
+		 },
+		 {
+		  "Date": "25/08/2022",
+		  "Topics covered": "User header file, Command i/o redirection"
+		 },
+		 {
+		  "Date": "26/08/2022",
+		  "Topics covered": "Command pipelining, storage classes, predefined macros, C standardization"
+		 },
+		{
+		  "Date": "31/08/2022",
+		  "Topics covered": "ssh command, scp command, ftp command, explaination of c statement that performs pre and post incement on the same variable"
+		 },
+		{
+		  "Date": "20/09/2022",
+		  "Topics covered": "Review of class, objects, visibility modes, this pointer, constructor, destructor"
+		 },
+		{
+		  "Date": "21/09/2022",
+		  "Topics covered": "Reference variable, Parameter passing by reference, Function overloading, string class & functions, Inheritance"
+		 },
+		{
+		  "Date": "13/10/2022",
+		  "Topics covered": "Friend function, Friend class, this pointer, Function Overriding"
+		 },
+		{
+		  "Date": "23/10/2022",
+		  "Topics covered": "Review of compilation of C++ program in the laboratory, Operator overloading, Operator overloading through member function, operator overloading through friend function"
+		 }
+		]
+	}
+]

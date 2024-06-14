@@ -1,0 +1,78 @@
+
+[
+          { 
+            "Course Plane": "For session 2021-2022 and 2022-2023",
+		
+		"Planning":[
+		 
+                 {
+                  "CourseName":"Data Communication and Computer Networks (CSC2016/INF2016)",
+		      "Session": "2021-2022",
+                  "Semester": "2nd (Even Semester)",
+                  "Period": "January-June",
+                  "Lession Plan":"<a href=\"ihazarika/courseplan/5.pdf\">Computer Science</a>"
+                  
+		 },
+
+                 {
+                  "CourseName":"",
+		      "Session": "",
+                  "Semester": "",
+                  "Period": "",
+                  "Lession Plan":"<a href=\"ihazarika/courseplan/6.pdf\">Information Technology</a>"
+		      },
+                 {
+                  "CourseName":"Compiler Design (CSC3036/INF3036)",
+		      "Session": "2021-2022",
+                  "Semester": "3rd (Odd Semester)",
+                  "Period": "August-December",
+                  "Lession Plan":"<a href=\"ihazarika/courseplan/1.pdf\">Computer Science</a>"
+                  
+                 },
+                 {
+                  "CourseName":"",
+		      "Session": "",
+                  "Semester": "",
+                  "Period": "",
+                  "Lession Plan":"<a href=\"ihazarika/courseplan/2.pdf\">Information Technology</a>"
+                 },
+
+                 {
+                  "CourseName":"Data Communication and Computer Networks (CSC2016/INF2016)",
+		      "Session": "2022-2023",
+                  "Semester": "2nd (Even Semester)",
+                  "Period": "January-June",
+                  "Lession Plan":"<a href=\"ihazarika/courseplan/7.pdf\">Computer Science</a>"
+                  
+		     },
+
+                 {
+                  "CourseName":"",
+		      "Session": "",
+                  "Semester": "",
+                  "Period": "",
+                  "Lession Plan":"<a href=\"ihazarika/courseplan/8.pdf\">Information Technology</a>"
+		     },
+
+                 {
+		      "CourseName":"Compiler Design (CSC3036/INF3036)",
+		      "Session": "2022-2023",
+                  "Semester": "3rd (Odd Semester)",
+                  "Period": "August-December",
+                  "Lession Plan":"<a href=\"ihazarika/courseplan/3.pdf\">Computer Science</a>"
+                  
+		     },
+                 {
+		      "CourseName":"",
+		      "Session": "",
+                  "Semester": "",
+                  "Period": "",
+                  "Lession Plan":"<a href=\"ihazarika/courseplan/4.pdf\">Information Technology</a>"
+		     }
+
+             ]
+	   }
+
+ 
+
+]

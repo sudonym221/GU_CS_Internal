@@ -1,0 +1,20 @@
+[
+  { 
+    "Name":"Bidyut Bhattacharyya", 
+    "Program":"M.Sc. (IT)",
+    "Semester":"1",
+    "Title":"Precision Farming"
+  },
+   { 
+    "Name":"Bipanshi Baruah", 
+    "Program":"M.Sc. (IT)",
+    "Semester":"3",
+    "Title":"Gait Analysis"
+  },
+  { 
+    "Name":"Raju Baruah", 
+    "Program":"M.Sc. (CS)",
+    "Semester":"3",
+    "Title":"Crime Prediction"
+  }
+]
